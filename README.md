@@ -1,2 +1,0 @@
-# KCL
-KiCad Library
