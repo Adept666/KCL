@@ -1,8 +1,8 @@
-(module LED-ROUND-03.0-BI-SH (layer F.Cu) (tedit 5B745FFD)
+(module LED-ROUND-03.0-BI-SH-NOSPACER (layer F.Cu) (tedit 5B75599D)
   (fp_text reference REF** (at 0 -2.413) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.2)))
   )
-  (fp_text value LED-ROUND-03.0-BI-SH (at 0 -3.683) (layer F.Fab) hide
+  (fp_text value LED-ROUND-03.0-BI-SH-NOSPACER (at 0 -3.683) (layer F.Fab) hide
     (effects (font (size 1 1) (thickness 0.2)))
   )
   (fp_line (start 3.683 -1.778) (end 3.683 1.778) (layer F.CrtYd) (width 0.1))
