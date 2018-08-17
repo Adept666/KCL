@@ -1,8 +1,8 @@
-(module D1206 (layer F.Cu) (tedit 5B42972C)
+(module LED-SMD-1206 (layer F.Cu) (tedit 5B42972C)
   (fp_text reference REF** (at 0 -1.905) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.2)))
   )
-  (fp_text value D1206 (at 0 -3.175) (layer F.Fab) hide
+  (fp_text value LED-SMD-1206 (at 0 -3.175) (layer F.Fab) hide
     (effects (font (size 1 1) (thickness 0.2)))
   )
   (fp_line (start -2.667 -1.27) (end 3.048 -1.27) (layer F.CrtYd) (width 0.1))
