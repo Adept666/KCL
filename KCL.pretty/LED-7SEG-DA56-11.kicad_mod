@@ -1,8 +1,8 @@
-(module DA56-11 (layer F.Cu) (tedit 5B6AEFE3)
+(module LED-7SEG-DA56-11 (layer F.Cu) (tedit 5BD79F09)
   (fp_text reference REF** (at 0 -10.287) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.2)))
   )
-  (fp_text value DA56-11 (at 0 -11.557) (layer F.Fab) hide
+  (fp_text value LED-7SEG-DA56-11 (at 0 -11.557) (layer F.Fab) hide
     (effects (font (size 1 1) (thickness 0.2)))
   )
   (fp_line (start -12.5 9.525) (end 12.5 9.525) (layer F.Fab) (width 0.2))

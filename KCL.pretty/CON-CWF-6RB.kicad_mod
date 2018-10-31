@@ -1,8 +1,8 @@
-(module CWF-6RB (layer F.Cu) (tedit 5BCF55E2)
+(module CON-CWF-6RB (layer F.Cu) (tedit 5BD793D2)
   (fp_text reference REF** (at 0 -9.906) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.2)))
   )
-  (fp_text value CWF-6RB (at 0 -11.176) (layer F.Fab) hide
+  (fp_text value CON-CWF-6RB (at 0 -11.176) (layer F.Fab) hide
     (effects (font (size 1 1) (thickness 0.2)))
   )
   (fp_line (start -8.7 -9.2) (end 8.7 -9.2) (layer F.CrtYd) (width 0.1))
