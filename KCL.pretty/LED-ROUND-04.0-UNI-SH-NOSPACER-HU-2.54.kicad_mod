@@ -1,8 +1,8 @@
-(module LED-ROUND-04.0-UNI-SH-NOSPACER-HU-2.54 (layer F.Cu) (tedit 5BD745F1)
+(module LED-ROUND-04.0-UNI-SH-NOSPACER-HU-2.54 (layer F.Cu) (tedit 5C609FEA)
   (fp_text reference REF** (at 0 -9.271) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.2)))
   )
-  (fp_text value LED-ROUND-04.0-SH-NOSPACER-HU-2.54 (at 0 -10.541) (layer F.Fab) hide
+  (fp_text value LED-ROUND-04.0-UNI-SH-NOSPACER-HU-2.54 (at 0 -10.541) (layer F.Fab) hide
     (effects (font (size 1 1) (thickness 0.2)))
   )
   (fp_line (start -1.27 -2.54) (end -1.27 0) (layer F.Fab) (width 0.2))
@@ -21,6 +21,6 @@
   (fp_line (start -2.54 1.27) (end 2.54 1.27) (layer F.CrtYd) (width 0.1))
   (fp_line (start -2.54 -1.27) (end -2.54 1.27) (layer F.CrtYd) (width 0.1))
   (fp_line (start 2.54 -1.27) (end 2.54 1.27) (layer F.CrtYd) (width 0.1))
-  (pad A thru_hole rect (at 1.27 0) (size 2 2) (drill 0.6) (layers *.Cu *.Mask))
-  (pad C thru_hole circle (at -1.27 0) (size 2 2) (drill 0.6) (layers *.Cu *.Mask))
+  (pad A thru_hole rect (at 1.27 0) (size 2 2) (drill 0.7) (layers *.Cu *.Mask))
+  (pad C thru_hole circle (at -1.27 0) (size 2 2) (drill 0.7) (layers *.Cu *.Mask))
 )

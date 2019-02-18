@@ -19,6 +19,6 @@
   (fp_line (start 3.175 -3.556) (end 3.175 3.556) (layer F.CrtYd) (width 0.1))
   (fp_line (start 3.175 3.556) (end -3.175 3.556) (layer F.CrtYd) (width 0.1))
   (fp_line (start -3.175 3.556) (end -3.175 -3.556) (layer F.CrtYd) (width 0.1))
-  (pad 2 smd trapezoid (at 1.95 0) (size 2.1 5.8) (rect_delta 1.05 0 ) (layers F.Cu F.Paste F.Mask))
-  (pad 1 smd trapezoid (at -1.95 0) (size 2.1 5.8) (rect_delta -1.05 0 ) (layers F.Cu F.Paste F.Mask))
+  (pad 2 smd trapezoid (at 1.95 0) (size 2.1 5.8) (rect_delta 1.05 0 ) (layers F.Cu F.Mask))
+  (pad 1 smd trapezoid (at -1.95 0) (size 2.1 5.8) (rect_delta -1.05 0 ) (layers F.Cu F.Mask))
 )
