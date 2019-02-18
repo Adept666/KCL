@@ -21,6 +21,6 @@
   (fp_line (start -2.667 -1.524) (end -2.667 1.524) (layer F.CrtYd) (width 0.1))
   (fp_line (start -2.667 1.524) (end 3.048 1.524) (layer F.CrtYd) (width 0.1))
   (fp_line (start -2.667 -1.524) (end 3.048 -1.524) (layer F.CrtYd) (width 0.1))
-  (pad + smd rect (at -1.5 0) (size 2 2.2) (layers F.Cu F.Paste F.Mask))
-  (pad - smd rect (at 1.5 0) (size 2 2.2) (layers F.Cu F.Paste F.Mask))
+  (pad + smd rect (at -1.5 0) (size 2 2.2) (layers F.Cu F.Mask))
+  (pad - smd rect (at 1.5 0) (size 2 2.2) (layers F.Cu F.Mask))
 )

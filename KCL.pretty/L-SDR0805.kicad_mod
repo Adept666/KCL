@@ -19,6 +19,6 @@
   (fp_arc (start -0.254 1.016) (end -0.254 0.508) (angle 180) (layer F.SilkS) (width 0.2))
   (fp_arc (start -0.254 -1.016) (end -0.254 -1.524) (angle 180) (layer F.SilkS) (width 0.2))
   (fp_arc (start -0.254 0) (end -0.254 -0.508) (angle 180) (layer F.SilkS) (width 0.2))
-  (pad 2 smd trapezoid (at 2.65 0) (size 2.7 8) (rect_delta 1.35 0 ) (layers F.Cu F.Paste F.Mask))
-  (pad 1 smd trapezoid (at -2.65 0) (size 2.7 8) (rect_delta -1.35 0 ) (layers F.Cu F.Paste F.Mask))
+  (pad 2 smd trapezoid (at 2.65 0) (size 2.7 8) (rect_delta 1.35 0 ) (layers F.Cu F.Mask))
+  (pad 1 smd trapezoid (at -2.65 0) (size 2.7 8) (rect_delta -1.35 0 ) (layers F.Cu F.Mask))
 )
