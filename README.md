@@ -4,7 +4,7 @@ KiCad Library
 
 ## List of symbols
 
-| Наименование | Наименование в Kicad | Designator | Pin numbers |
+| Description | Name | Designator | Pin numbers |
 | --- | --- | --- | --- |
 | Bipolar junction transistor: |
 | N-P-N general-purpose | BJT_NPN_GENERAL | VT? | B, C, E |
@@ -79,7 +79,7 @@ KiCad Library
 
 ## Перечень символов
 
-| Наименование | Наименование в Kicad | Позиционное обозначение | Номера выводов |
+| Описание | Наименование | Позиционное обозначение | Номера выводов |
 | --- | --- | --- | --- |
 | Транзистор с P-N-переходами: |
 | N-P-N общего назначения | BJT_NPN_GENERAL | VT? | B, C, E |
