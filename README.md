@@ -60,6 +60,10 @@ KiCad Library
 | Mounting hole | HOLE | XS? | 0, 0, 0, 0 |
 | Integrated circuit: |
 | Infrared receiver | IC_IRR | D? | VCC, OUT, GND |
+| Regulator, negative-voltage | IC_REGULATOR_NEG | D? | IN, GND, OUT|
+| Regulator, negative-voltage, adjustable | IC_REGULATOR_NEG_ADJ | D? | IN, ADJ, OUT|
+| Regulator, positive-voltage | IC_REGULATOR_POS | D? | IN, GND, OUT|
+| Regulator, positive-voltage, adjustable | IC_REGULATOR_POS_ADJ | D? | IN, ADJ, OUT|
 | Inductor: |
 | Air core | INDUCTOR_AC | L? | 1, 2 |
 | Ferromagnetic or ferrimagnetic core | INDUCTOR_FMC | L? | 1, 2 |
@@ -137,6 +141,10 @@ KiCad Library
 | Монтажное отверстие | HOLE | XS? | 0, 0, 0, 0 |
 | Интегральная микросхема: |
 | Инфракрасный приёмник | IC_IRR | D? | VCC, OUT, GND |
+| Стабилизатор отрицательного напряжения | IC_REGULATOR_NEG | D? | IN, GND, OUT|
+| Стабилизатор отрицательного напряжения регулируемый | IC_REGULATOR_NEG_ADJ | D? | IN, ADJ, OUT|
+| Стабиризатор положительного напряжения | IC_REGULATOR_POS | D? | IN, GND, OUT|
+| Стабиризатор положительного напряжения регулируемый | IC_REGULATOR_POS_ADJ | D? | IN, ADJ, OUT|
 | Катушка индуктивности: |
 | Без магнитопровода | INDUCTOR_AC | L? | 1, 2 |
 | С ферромагнитным или ферримагнитным сердечником | INDUCTOR_FMC | L? | 1, 2 |
