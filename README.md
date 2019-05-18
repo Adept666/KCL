@@ -58,6 +58,8 @@ KiCad Library
 | Optical incremental with button | ENCODER_OPTICAL_INC_B | BR?A…BR?B | A, B, VCC, GND, COM, NO |
 | Mounting hole: |
 | Mounting hole | HOLE | XS? | 0, 0, 0, 0 |
+| Integrated circuit: |
+| Infrared receiver | IC_IRR | D? | VCC, OUT, GND |
 | Inductor: |
 | Air core | INDUCTOR_AC | L? | 1, 2 |
 | Ferromagnetic or ferrimagnetic core | INDUCTOR_FMC | L? | 1, 2 |
@@ -133,6 +135,8 @@ KiCad Library
 | Оптический инкрементный с кнопкой | ENCODER_OPTICAL_INC_B | BR?A…BR?B | A, B, VCC, GND, COM, NO |
 | Монтажное отверстие: |
 | Монтажное отверстие | HOLE | XS? | 0, 0, 0, 0 |
+| Интегральная микросхема: |
+| Инфракрасный приёмник | IC_IRR | D? | VCC, OUT, GND |
 | Катушка индуктивности: |
 | Без магнитопровода | INDUCTOR_AC | L? | 1, 2 |
 | С ферромагнитным или ферримагнитным сердечником | INDUCTOR_FMC | L? | 1, 2 |
