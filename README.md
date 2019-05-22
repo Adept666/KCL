@@ -10,7 +10,8 @@ KiCad Library
 | N-P-N general-purpose | BJT_NPN_GENERAL | VT? | B, C, E |
 | P-N-P general-purpose | BJT_PNP_GENERAL | VT? | B, C, E |
 | Capacitor: |
-| Ferroelectric | CAPACITOR_FERROELECTRIC | C? | 1, 2 |
+| Ferroelectric (horizontal) | CAPACITOR_FERROELECTRIC_H | C? | 1, 2 |
+| Ferroelectric (vertical) | CAPACITOR_FERROELECTRIC_V | C? | 1, 2 |
 | Non-polarized | CAPACITOR_NON-POLARIZED | C? | 1, 2 |
 | Polarized | CAPACITOR_POLARIZED | C? | +, - |
 | Preset | CAPACITOR_PRESET | C? | 1, 2 |
@@ -100,7 +101,8 @@ KiCad Library
 | N-P-N общего назначения | BJT_NPN_GENERAL | VT? | B, C, E |
 | P-N-P общего назначения | BJT_PNP_GENERAL | VT? | B, C, E |
 | Конденсатор: |
-| Вариконд | CAPACITOR_FERROELECTRIC | C? | 1, 2 |
+| Вариконд (изображён горизонтально) | CAPACITOR_FERROELECTRIC_H | C? | 1, 2 |
+| Вариконд (изображён вертикально) | CAPACITOR_FERROELECTRIC_V | C? | 1, 2 |
 | Неполяризованный | CAPACITOR_NON-POLARIZED | C? | 1, 2 |
 | Поляризованный | CAPACITOR_POLARIZED | C? | +, - |
 | Подстроечный | CAPACITOR_PRESET | C? | 1, 2 |
