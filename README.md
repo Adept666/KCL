@@ -77,6 +77,15 @@ KiCad Library
 | Power VDD | POWER_VDD | #PWR | VDD |
 | Resistor: |
 | General-purpose | RESISTOR_GENERAL | R? | 1, 2 |
+| Heater | RESISTOR_HEATER | EK? | 1, 2 |
+| Preset | RESISTOR_PRESET | RP? | 1, 2, 3 |
+| Thermistor with negative temperature coefficient (horizontal) | RESISTOR_THERMISTOR_NTC_H | RK? | 1, 2 |
+| Thermistor with negative temperature coefficient (vertical) | RESISTOR_THERMISTOR_NTC_V | RK? | 1, 2 |
+| Thermistor with positive temperature coefficient (horizontal) | RESISTOR_THERMISTOR_PTC_H | RK? | 1, 2 |
+| Thermistor with positive temperature coefficient (vertical) | RESISTOR_THERMISTOR_PTC_V | RK? | 1, 2 |
+| Variable | RESISTOR_VARIABLE | RP? | 1, 2, 3 |
+| Varistor (horizontal) | RESISTOR_VARISTOR_H | RU? | 1, 2 |
+| Varistor (vertical) | RESISTOR_VARISTOR_V | RU? | 1, 2 |
 | Switch: |
 | Switch block, 5 channels | SWITCH_BLOCK_05 | SA?A…SA?E | 1…10 |
 | Button, normally open, 1 pole | SWITCH_BUTTON_NO_01 | SB? | 1COM, 1NO |
@@ -158,6 +167,15 @@ KiCad Library
 | Питание VDD | POWER_VDD | #PWR | VDD |
 | Резистор: |
 | Общего назначения | RESISTOR_GENERAL | R? | 1, 2 |
+| Нагревательный элемент | RESISTOR_HEATER | EK? | 1, 2 |
+| Подстроечный | RESISTOR_PRESET | RP? | 1, 2, 3 |
+| Терморезистор с отрицательным температурным коэффициентом (изображён горизонтально) | RESISTOR_THERMISTOR_NTC_H | RK? | 1, 2 |
+| Терморезистор с отрицательным температурным коэффициентом (изображён вертикально) | RESISTOR_THERMISTOR_NTC_V | RK? | 1, 2 |
+| Терморезистор с положительным температурным коэффициентом (изображён горизонтально) | RESISTOR_THERMISTOR_PTC_H | RK? | 1, 2 |
+| Терморезистор с положительным температурным коэффициентом (изображён вертикально) | RESISTOR_THERMISTOR_PTC_V | RK? | 1, 2 |
+| Регулируемый | RESISTOR_VARIABLE | RP? | 1, 2, 3 |
+| Варистор (изображён горизонтально) | RESISTOR_VARISTOR_H | RU? | 1, 2 |
+| Варистор (изображён вертикально) | RESISTOR_VARISTOR_V | RU? | 1, 2 |
 | Переключатель: |
 | Блок переключателей, 5 каналов | SWITCH_BLOCK_05 | SA?A…SA?E | 1…10 |
 | Кнопка замыкающая, 1 полоса | SWITCH_BUTTON_NO_01 | SB? | 1COM, 1NO |
