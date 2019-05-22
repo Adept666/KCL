@@ -57,6 +57,10 @@ KiCad Library
 | Contacting incremental with button | ENCODER_CONTACTING_INC_B | BR?A…BR?B | A, B, C, COM, NO |
 | Optical incremental | ENCODER_OPTICAL_INC | BR? | A, B, VCC, GND |
 | Optical incremental with button | ENCODER_OPTICAL_INC_B | BR?A…BR?B | A, B, VCC, GND, COM, NO |
+| Fuse: |
+| Fuse | FUSE_GENERAL | FU? | 1, 2 |
+| Polyfuse (horizontal) | FUSE_POLY_H | F? | 1, 2 |
+| Polyfuse (vertical) | FUSE_POLY_V | F? | 1, 2 |
 | Mounting hole: |
 | Mounting hole | HOLE | XS? | 0, 0, 0, 0 |
 | Integrated circuit: |
@@ -148,6 +152,10 @@ KiCad Library
 | Контактный инкрементный с кнопкой | ENCODER_CONTACTING_INC_B | BR?A…BR?B | A, B, C, COM, NO |
 | Оптический инкрементный | ENCODER_OPTICAL_INC | BR? | A, B, VCC, GND |
 | Оптический инкрементный с кнопкой | ENCODER_OPTICAL_INC_B | BR?A…BR?B | A, B, VCC, GND, COM, NO |
+| Предохранитель: |
+| Плавкий | FUSE_GENERAL | FU? | 1, 2 |
+| Самовосстанавливающийся (изображён горизонтально) | FUSE_POLY_H | F? | 1, 2 |
+| Самовосстанавливающийся (изображён вертикально) | FUSE_POLY_V | F? | 1, 2 |
 | Монтажное отверстие: |
 | Монтажное отверстие | HOLE | XS? | 0, 0, 0, 0 |
 | Интегральная микросхема: |
