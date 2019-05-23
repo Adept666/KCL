@@ -55,8 +55,12 @@ KiCad Library
 | Encoder: |
 | Contacting incremental | ENCODER_CONTACTING_INC | BR? | A, B, C |
 | Contacting incremental with button | ENCODER_CONTACTING_INC_B | BR?A…BR?B | A, B, C, COM, NO |
+| Contacting incremental with button (case pin depicted) | ENCODER_CONTACTING_INC_B_C | BR?A…BR?B | A, B, C, 0, COM, NO |
+| Contacting incremental (case pin depicted) | ENCODER_CONTACTING_INC_C | BR? | A, B, C, 0 |
 | Optical incremental | ENCODER_OPTICAL_INC | BR? | A, B, VCC, GND |
 | Optical incremental with button | ENCODER_OPTICAL_INC_B | BR?A…BR?B | A, B, VCC, GND, COM, NO |
+| Optical incremental with button (case pin depicted) | ENCODER_OPTICAL_INC_B_C | BR?A…BR?B | A, B, VCC, GND, 0, COM, NO |
+| Optical incremental (case pin depicted) | ENCODER_OPTICAL_INC_C | BR? | A, B, VCC, GND, 0 |
 | Fuse: |
 | Fuse | FUSE_GENERAL | FU? | 1, 2 |
 | Polyfuse (horizontal) | FUSE_POLY_H | F? | 1, 2 |
@@ -160,8 +164,12 @@ KiCad Library
 | Энкодер: |
 | Контактный инкрементный | ENCODER_CONTACTING_INC | BR? | A, B, C |
 | Контактный инкрементный с кнопкой | ENCODER_CONTACTING_INC_B | BR?A…BR?B | A, B, C, COM, NO |
+| Контактный инкрементный с кнопкой (изображён вывод корпуса) | ENCODER_CONTACTING_INC_B_C | BR?A…BR?B | A, B, C, 0, COM, NO |
+| Контактный инкрементный (изображён вывод корпуса) | ENCODER_CONTACTING_INC_C | BR? | A, B, C, 0 |
 | Оптический инкрементный | ENCODER_OPTICAL_INC | BR? | A, B, VCC, GND |
 | Оптический инкрементный с кнопкой | ENCODER_OPTICAL_INC_B | BR?A…BR?B | A, B, VCC, GND, COM, NO |
+| Оптический инкрементный с кнопкой (изображён вывод корпуса) | ENCODER_OPTICAL_INC_B_C | BR?A…BR?B | A, B, VCC, GND, 0, COM, NO |
+| Оптический инкрементный (изображён вывод корпуса) | ENCODER_OPTICAL_INC_C | BR? | A, B, VCC, GND, 0 |
 | Предохранитель: |
 | Плавкий | FUSE_GENERAL | FU? | 1, 2 |
 | Самовосстанавливающийся (изображён горизонтально) | FUSE_POLY_H | F? | 1, 2 |
