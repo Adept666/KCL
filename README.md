@@ -19,14 +19,25 @@ KiCad Library
 | Connector: |
 | Female, 001 pin, field width – 20 | CONNECTOR_F_001_20 | XS? | 1 |
 | Female, 002 pins, field width – 20 | CONNECTOR_F_002_20 | XS? | 1, 2 |
-| Male, 001 pins, field width – 20 | CONNECTOR_M_001_20 | XP? | 1 |
+| Female, 003 pins, field width – 20 | CONNECTOR_F_003_20 | XS? | 1…3 |
+| Male, 001 pin, field width – 20 | CONNECTOR_M_001_20 | XP? | 1 |
 | Male, 002 pins, field width – 20 | CONNECTOR_M_002_20 | XP? | 1, 2 |
+| Male, 003 pins, field width – 20 | CONNECTOR_M_003_20 | XP? | 1…3 |
 | Male, 004 pins, field width – 20 | CONNECTOR_M_004_20 | XP? | 1…4 |
 | Male, 006 pins, field width – 20 | CONNECTOR_M_006_20 | XP? | 1…6 |
+| Male, 008 pins, field width – 20 | CONNECTOR_M_008_20 | XP? | 1…8 |
 | Male, 010 pins, field width – 20 | CONNECTOR_M_010_20 | XP? | 1…10 |
+| Male, 012 pins, field width – 20 | CONNECTOR_M_012_20 | XP? | 1…12 |
 | Male, 014 pins, field width – 20 | CONNECTOR_M_014_20 | XP? | 1…14 |
+| Male, 016 pins, field width – 20 | CONNECTOR_M_016_20 | XP? | 1…16 |
 | Male, 020 pins, field width – 20 | CONNECTOR_M_020_20 | XP? | 1…20 |
+| Male, 026 pins, field width – 20 | CONNECTOR_M_026_20 | XP? | 1…26 |
+| Male, 030 pins, field width – 20 | CONNECTOR_M_030_20 | XP? | 1…30 |
+| Male, 034 pins, field width – 20 | CONNECTOR_M_034_20 | XP? | 1…34 |
 | Male, 040 pins, field width – 20 | CONNECTOR_M_040_20 | XP? | 1…40 |
+| Male, 050 pins, field width – 20 | CONNECTOR_M_050_20 | XP? | 1…50 |
+| Male, 060 pins, field width – 20 | CONNECTOR_M_060_20 | XP? | 1…60 |
+| Male, 064 pins, field width – 20 | CONNECTOR_M_064_20 | XP? | 1…64 |
 | Male coaxial power connector, field width – 20 | CONNECTOR_M_BARREL_20 | XP? | 1, 3, 2 |
 | Diode: |
 | Seven-segment indicator, 1 digit, common anode | DIODE_7SEG_1DIG_CA | HG? | A1, CA…CH |
@@ -128,14 +139,25 @@ KiCad Library
 | Разъём: |
 | Розетка, 001 конт., ширина поля – 20 | CONNECTOR_F_001_20 | XS? | 1 |
 | Розетка, 002 конт., ширина поля – 20 | CONNECTOR_F_002_20 | XS? | 1, 2 |
+| Розетка, 003 конт., ширина поля – 20 | CONNECTOR_F_003_20 | XS? | 1…3 |
 | Вилка, 001 конт., ширина поля – 20 | CONNECTOR_M_001_20 | XP? | 1 |
 | Вилка, 002 конт., ширина поля – 20 | CONNECTOR_M_002_20 | XP? | 1, 2 |
+| Вилка, 003 конт., ширина поля – 20 | CONNECTOR_M_003_20 | XP? | 1…3 |
 | Вилка, 004 конт., ширина поля – 20 | CONNECTOR_M_004_20 | XP? | 1…4 |
 | Вилка, 006 конт., ширина поля – 20 | CONNECTOR_M_006_20 | XP? | 1…6 |
+| Вилка, 008 конт., ширина поля – 20 | CONNECTOR_M_008_20 | XP? | 1…8 |
 | Вилка, 010 конт., ширина поля – 20 | CONNECTOR_M_010_20 | XP? | 1…10 |
+| Вилка, 012 конт., ширина поля – 20 | CONNECTOR_M_012_20 | XP? | 1…12 |
 | Вилка, 014 конт., ширина поля – 20 | CONNECTOR_M_014_20 | XP? | 1…14 |
+| Вилка, 016 конт., ширина поля – 20 | CONNECTOR_M_016_20 | XP? | 1…16 |
 | Вилка, 020 конт., ширина поля – 20 | CONNECTOR_M_020_20 | XP? | 1…20 |
+| Вилка, 026 конт., ширина поля – 20 | CONNECTOR_M_026_20 | XP? | 1…26 |
+| Вилка, 030 конт., ширина поля – 20 | CONNECTOR_M_030_20 | XP? | 1…30 |
+| Вилка, 034 конт., ширина поля – 20 | CONNECTOR_M_034_20 | XP? | 1…34 |
 | Вилка, 040 конт., ширина поля – 20 | CONNECTOR_M_040_20 | XP? | 1…40 |
+| Вилка, 050 конт., ширина поля – 20 | CONNECTOR_M_050_20 | XP? | 1…50 |
+| Вилка, 060 конт., ширина поля – 20 | CONNECTOR_M_060_20 | XP? | 1…60 |
+| Вилка, 064 конт., ширина поля – 20 | CONNECTOR_M_064_20 | XP? | 1…64 |
 | Вилка коаксиального разъема питания, ширина поля – 20 | CONNECTOR_M_BARREL_20 | XP? | 1, 3, 2 |
 | Диод: |
 | Семисегментный индикатор, 1 разряд, общий анод | DIODE_7SEG_1DIG_CA | HG? | A1, CA…CH |
