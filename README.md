@@ -52,11 +52,15 @@ KiCad Library
 | Seven-segment indicator, 4 digits, common cathode, static control | DIODE_7SEG_4DIG_CC_S | HG?A…HG?D | C1, A1A…A1H, C2, A2A…A2H, C3, A3A…A3H, C4, A4A…A4H |
 | Backward | DIODE_BACKWARD | VD? | A, C |
 | General-purpose | DIODE_GENERAL | VD? | A, C |
+| General-purpose bridge | DIODE_GENERAL_BRIDGE | VD? | ~~1, ~~2, +, - |
+| General-purpose (diagonal) | DIODE_GENERAL_D | VD? | A, C |
 | Light-emitting (left to right arrows) | DIODE_LIGHT-EMITTING_LEFT | HL? | A, C |
 | Light-emitting (right to left arrows) | DIODE_LIGHT-EMITTING_RIGHT | HL? | A, C |
 | Photodiode (left to right arrows) | DIODE_PHOTO_LEFT | VD? | A, C |
 | Photodiode (right to left arrows) | DIODE_PHOTO_RIGHT | VD? | A, C |
 | Schottky | DIODE_SCHOTTKY | VD? | A, C |
+| Schottky bridge | DIODE_SCHOTTKY_BRIDGE | VD? | ~~1, ~~2, +, - |
+| Schottky (diagonal) | DIODE_SCHOTTKY_D | VD? | A, C |
 | Tunnel | DIODE_TUNNEL | VD? | A, C |
 | Zener (unidirectional) | DIODE_ZENER_DA | VD? | 1, 2 |
 | Zener (bidirectional) | DIODE_ZENER_SA | VD? | A, C |
@@ -177,11 +181,15 @@ KiCad Library
 | Семисегментный индикатор, 4 разряда, общий катод, статическая индикация | DIODE_7SEG_4DIG_CC_S | HG?A…HG?D | C1, A1A…A1H, C2, A2A…A2H, C3, A3A…A3H, C4, A4A…A4H |
 | Обращённый | DIODE_BACKWARD | VD? | A, C |
 | Общего назначения | DIODE_GENERAL | VD? | A, C |
+| Мост общего назначения | DIODE_GENERAL_BRIDGE | VD? | ~~1, ~~2, +, - |
+| Общего назначения (изображён диагонально) | DIODE_GENERAL_D | VD? | A, C |
 | Светоизлучающий (стрелки слева) | DIODE_LIGHT-EMITTING_LEFT | HL? | A, C |
 | Светоизлучающий (стрелки справа) | DIODE_LIGHT-EMITTING_RIGHT | HL? | A, C |
 | Фотодиод (стрелки слева) | DIODE_PHOTO_LEFT | VD? | A, C |
 | Фотодиод (стрелки справа) | DIODE_PHOTO_RIGHT | VD? | A, C |
 | Шоттки | DIODE_SCHOTTKY | VD? | A, C |
+| Мост Шоттки | DIODE_SCHOTTKY_BRIDGE | VD? | ~~1, ~~2, +, - |
+| Шоттки (изображён диагонально) | DIODE_SCHOTTKY_D | VD? | A, C |
 | Туннельный | DIODE_TUNNEL | VD? | A, C |
 | Стабилитрон (двухсторонний) | DIODE_ZENER_DA | VD? | 1, 2 |
 | Стабилитрон (односторонний) | DIODE_ZENER_SA | VD? | A, C |
