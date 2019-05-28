@@ -7,8 +7,8 @@ KiCad Library
 | Description | Name | Designator | Pin numbers |
 | --- | --- | --- | --- |
 | Bipolar junction transistor: |
-| N-P-N general-purpose | BJT_NPN_GENERAL | VT? | B, C, E |
-| P-N-P general-purpose | BJT_PNP_GENERAL | VT? | B, C, E |
+| N-P-N, general-purpose | BJT_NPN_GENERAL | VT? | B, C, E |
+| P-N-P, general-purpose | BJT_PNP_GENERAL | VT? | B, C, E |
 | Capacitor: |
 | Ferroelectric (horizontal) | CAPACITOR_FERROELECTRIC_H | C? | 1, 2 |
 | Ferroelectric (vertical) | CAPACITOR_FERROELECTRIC_V | C? | 1, 2 |
@@ -90,6 +90,11 @@ KiCad Library
 | Magnetodielectric core | INDUCTOR_MDC | L? | 1, 2 |
 | Jumper: |
 | Jumper | JUMPER | J? | J, J |
+| Metal-oxide-semiconductor field-effect transistor: |
+| Depletion-mode, N-type, general-purpose | MOSFET_DEP_N_GENERAL | VT? | G, D, S |
+| Depletion-mode, P-type, general-purpose | MOSFET_DEP_P_GENERAL | VT? | G, D, S |
+| Enhancement-mode, N-type, general-purpose | MOSFET_ENH_N_GENERAL | VT? | G, D, S |
+| Enhancement-mode, P-type, general-purpose | MOSFET_ENH_P_GENERAL | VT? | G, D, S |
 | Power: |
 | Common point | POWER_COM | #PWR | COM |
 | Power | POWER_V | #PWR | V |
@@ -126,9 +131,9 @@ KiCad Library
 
 | Описание | Наименование | Позиционное обозначение | Номера выводов |
 | --- | --- | --- | --- |
-| Транзистор с P-N-переходами: |
-| N-P-N общего назначения | BJT_NPN_GENERAL | VT? | B, C, E |
-| P-N-P общего назначения | BJT_PNP_GENERAL | VT? | B, C, E |
+| Биполярный транзистор: |
+| N-P-N, общего назначения | BJT_NPN_GENERAL | VT? | B, C, E |
+| P-N-P, общего назначения | BJT_PNP_GENERAL | VT? | B, C, E |
 | Конденсатор: |
 | Вариконд (изображён горизонтально) | CAPACITOR_FERROELECTRIC_H | C? | 1, 2 |
 | Вариконд (изображён вертикально) | CAPACITOR_FERROELECTRIC_V | C? | 1, 2 |
@@ -210,6 +215,11 @@ KiCad Library
 | С магнитодиэлектрическим сердечником | INDUCTOR_MDC | L? | 1, 2 |
 | Перемычка: |
 | Перемычка | JUMPER | J? | J, J |
+| Полевой транзистор с изолированным затвором: |
+| Со встроенным каналом N-типа, общего назначения | MOSFET_DEP_N_GENERAL | VT? | G, D, S |
+| Со встроенным каналом P-типа, общего назначения | MOSFET_DEP_P_GENERAL | VT? | G, D, S |
+| С индуцированным каналом N-типа, общего назначения | MOSFET_ENH_N_GENERAL | VT? | G, D, S |
+| С индуцированным каналом P-типа, общего назначения | MOSFET_ENH_P_GENERAL | VT? | G, D, S |
 | Земля, общая точка, питание: |
 | Общая точка | POWER_COM | #PWR | COM |
 | Питание | POWER_V | #PWR | V |
