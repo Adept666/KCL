@@ -1,15 +1,15 @@
 EESchema-DOCLIB  Version 2.0
 #
 $CMP JM38510\10901BPA
-F http://www.ti.com/lit/ds/symlink/ne555.pdf
+F http://www.ti.com/lit/ds/symlink/na555.pdf
 $ENDCMP
 #
 $CMP M38510\10901BPA
-F http://www.ti.com/lit/ds/symlink/ne555.pdf
+F http://www.ti.com/lit/ds/symlink/na555.pdf
 $ENDCMP
 #
 $CMP NA555
-F http://www.ti.com/lit/ds/symlink/ne555.pdf
+F http://www.ti.com/lit/ds/symlink/na555.pdf
 $ENDCMP
 #
 $CMP NE555
@@ -17,11 +17,11 @@ F http://www.ti.com/lit/ds/symlink/ne555.pdf
 $ENDCMP
 #
 $CMP SA555
-F http://www.ti.com/lit/ds/symlink/ne555.pdf
+F http://www.ti.com/lit/ds/symlink/sa555.pdf
 $ENDCMP
 #
 $CMP SE555
-F http://www.ti.com/lit/ds/symlink/ne555.pdf
+F http://www.ti.com/lit/ds/symlink/se555.pdf
 $ENDCMP
 #
 #End Doc Library
