@@ -80,8 +80,6 @@ KiCad Library
 | Fuse | FUSE_GENERAL | FU? | 1, 2 |
 | Polyfuse (horizontal) | FUSE_POLY_H | F? | 1, 2 |
 | Polyfuse (vertical) | FUSE_POLY_V | F? | 1, 2 |
-| Mounting hole: |
-| Mounting hole | HOLE | XS? | 0, 0, 0, 0 |
 | Integrated circuit: |
 | Infrared receiver | IC_IRR | D? | VCC, OUT, GND |
 | Regulator, negative-voltage | IC_REGULATOR_NEG | D? | IN, GND, OUT|
@@ -209,8 +207,6 @@ KiCad Library
 | Плавкий | FUSE_GENERAL | FU? | 1, 2 |
 | Самовосстанавливающийся (изображён горизонтально) | FUSE_POLY_H | F? | 1, 2 |
 | Самовосстанавливающийся (изображён вертикально) | FUSE_POLY_V | F? | 1, 2 |
-| Монтажное отверстие: |
-| Монтажное отверстие | HOLE | XS? | 0, 0, 0, 0 |
 | Интегральная микросхема: |
 | Инфракрасный приёмник | IC_IRR | D? | VCC, OUT, GND |
 | Стабилизатор отрицательного напряжения | IC_REGULATOR_NEG | D? | IN, GND, OUT|
