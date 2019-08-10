@@ -1,5 +1,13 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP CD4009
+F http://www.ti.com/lit/ds/symlink/cd4009ub.pdf
+$ENDCMP
+#
+$CMP CD4010
+F http://www.ti.com/lit/ds/symlink/cd4010b.pdf
+$ENDCMP
+#
 $CMP LM124
 F http://www.ti.com/lit/ds/symlink/lm124.pdf
 $ENDCMP
