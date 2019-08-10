@@ -1,9 +1,5 @@
 EESchema-DOCLIB  Version 2.0
 #
-$CMP JM38510\10901BPA
-F http://www.ti.com/lit/ds/symlink/na555.pdf
-$ENDCMP
-#
 $CMP LM124
 F http://www.ti.com/lit/ds/symlink/lm124.pdf
 $ENDCMP
@@ -18,10 +14,6 @@ $ENDCMP
 #
 $CMP LM324
 F http://www.ti.com/lit/ds/symlink/lm324.pdf
-$ENDCMP
-#
-$CMP M38510\10901BPA
-F http://www.ti.com/lit/ds/symlink/na555.pdf
 $ENDCMP
 #
 $CMP NA555
