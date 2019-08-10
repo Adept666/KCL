@@ -24,6 +24,10 @@ $CMP NE555
 F http://www.ti.com/lit/ds/symlink/ne555.pdf
 $ENDCMP
 #
+$CMP RC4558
+F http://www.ti.com/lit/ds/symlink/rc4558.pdf
+$ENDCMP
+#
 $CMP SA555
 F http://www.ti.com/lit/ds/symlink/sa555.pdf
 $ENDCMP
