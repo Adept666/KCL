@@ -4,6 +4,22 @@ $CMP JM38510\10901BPA
 F http://www.ti.com/lit/ds/symlink/na555.pdf
 $ENDCMP
 #
+$CMP LM124
+F http://www.ti.com/lit/ds/symlink/lm124.pdf
+$ENDCMP
+#
+$CMP LM224
+F http://www.ti.com/lit/ds/symlink/lm224.pdf
+$ENDCMP
+#
+$CMP LM2902
+F http://www.ti.com/lit/ds/symlink/lm2902.pdf
+$ENDCMP
+#
+$CMP LM324
+F http://www.ti.com/lit/ds/symlink/lm324.pdf
+$ENDCMP
+#
 $CMP M38510\10901BPA
 F http://www.ti.com/lit/ds/symlink/na555.pdf
 $ENDCMP
