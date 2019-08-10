@@ -20,12 +20,20 @@ $CMP NA555
 F http://www.ti.com/lit/ds/symlink/na555.pdf
 $ENDCMP
 #
+$CMP NE5532
+F http://www.ti.com/lit/ds/symlink/ne5532.pdf
+$ENDCMP
+#
 $CMP NE555
 F http://www.ti.com/lit/ds/symlink/ne555.pdf
 $ENDCMP
 #
 $CMP RC4558
 F http://www.ti.com/lit/ds/symlink/rc4558.pdf
+$ENDCMP
+#
+$CMP SA5532
+F http://www.ti.com/lit/ds/symlink/sa5532.pdf
 $ENDCMP
 #
 $CMP SA555
