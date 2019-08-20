@@ -92,6 +92,9 @@ KiCad Library
 | Magnetodielectric core | INDUCTOR_MDC | L? | 1, 2 |
 | Jumper: |
 | Jumper | JUMPER | J? | J, J |
+| Junction: |
+| Dismountable | JUNCTION_DISMOUNTABLE | X? | 1, 1, 1, 1 |
+| Solder | JUNCTION_SOLDER | X? | 1 |
 | Metal-oxide-semiconductor field-effect transistor: |
 | Depletion-mode, N-type, general-purpose | MOSFET_DEP_N_GENERAL | VT? | G, D, S |
 | Depletion-mode, P-type, general-purpose | MOSFET_DEP_P_GENERAL | VT? | G, D, S |
@@ -219,6 +222,9 @@ KiCad Library
 | С магнитодиэлектрическим сердечником | INDUCTOR_MDC | L? | 1, 2 |
 | Перемычка: |
 | Перемычка | JUMPER | J? | J, J |
+| Соединение: |
+| Разборное | JUNCTION_DISMOUNTABLE | X? | 1, 1, 1, 1 |
+| Неразборное | JUNCTION_SOLDER | X? | 1 |
 | Полевой транзистор с изолированным затвором: |
 | Со встроенным каналом N-типа, общего назначения | MOSFET_DEP_N_GENERAL | VT? | G, D, S |
 | Со встроенным каналом P-типа, общего назначения | MOSFET_DEP_P_GENERAL | VT? | G, D, S |
