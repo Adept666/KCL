@@ -8,7 +8,9 @@ KiCad Library
 | --- | --- | --- | --- |
 | Bipolar junction transistor: |
 | N-P-N, general-purpose | BJT_NPN_GENERAL | VT? | B, C, E |
+| N-P-N, general-purpose, dual | BJT_NPN_GENERAL_2U | VT?A…VT?B | B1, C1, E1, B2, C2, E2 |
 | P-N-P, general-purpose | BJT_PNP_GENERAL | VT? | B, C, E |
+| P-N-P, general-purpose, dual | BJT_PNP_GENERAL_2U | VT?A…VT?B | B1, C1, E1, B2, C2, E2 |
 | Capacitor: |
 | Ferroelectric (horizontal) | CAPACITOR_FERROELECTRIC_H | C? | 1, 2 |
 | Ferroelectric (vertical) | CAPACITOR_FERROELECTRIC_V | C? | 1, 2 |
@@ -98,9 +100,13 @@ KiCad Library
 | Solder | JUNCTION_SOLDER | X? | 1 |
 | Metal-oxide-semiconductor field-effect transistor: |
 | Depletion-mode, N-type, general-purpose | MOSFET_DEP_N_GENERAL | VT? | G, D, S |
+| Depletion-mode, N-type, general-purpose, dual | MOSFET_DEP_N_GENERAL_2U | VT?A…VT?B | G1, D1, S1, G2, D2, S2 |
 | Depletion-mode, P-type, general-purpose | MOSFET_DEP_P_GENERAL | VT? | G, D, S |
+| Depletion-mode, P-type, general-purpose, dual | MOSFET_DEP_P_GENERAL_2U | VT?A…VT?B | G1, D1, S1, G2, D2, S2 |
 | Enhancement-mode, N-type, general-purpose | MOSFET_ENH_N_GENERAL | VT? | G, D, S |
+| Enhancement-mode, N-type, general-purpose, dual | MOSFET_ENH_N_GENERAL_2U | VT?A…VT?B | G1, D1, S1, G2, D2, S2 |
 | Enhancement-mode, P-type, general-purpose | MOSFET_ENH_P_GENERAL | VT? | G, D, S |
+| Enhancement-mode, P-type, general-purpose, dual | MOSFET_ENH_P_GENERAL_2U | VT?A…VT?B | G1, D1, S1, G2, D2, S2 |
 | Power: |
 | Common point | POWER_COM | #PWR | COM |
 | Power | POWER_V | #PWR | V |
@@ -139,7 +145,9 @@ KiCad Library
 | --- | --- | --- | --- |
 | Биполярный транзистор: |
 | N-P-N, общего назначения | BJT_NPN_GENERAL | VT? | B, C, E |
+| N-P-N, общего назначения, сдвоенный | BJT_NPN_GENERAL_2U | VT?A…VT?B | B1, C1, E1, B2, C2, E2 |
 | P-N-P, общего назначения | BJT_PNP_GENERAL | VT? | B, C, E |
+| P-N-P, общего назначения, сдвоенный | BJT_PNP_GENERAL_2U | VT?A…VT?B | B1, C1, E1, B2, C2, E2 |
 | Конденсатор: |
 | Вариконд (изображён горизонтально) | CAPACITOR_FERROELECTRIC_H | C? | 1, 2 |
 | Вариконд (изображён вертикально) | CAPACITOR_FERROELECTRIC_V | C? | 1, 2 |
@@ -229,9 +237,13 @@ KiCad Library
 | Неразборное | JUNCTION_SOLDER | X? | 1 |
 | Полевой транзистор с изолированным затвором: |
 | Со встроенным каналом N-типа, общего назначения | MOSFET_DEP_N_GENERAL | VT? | G, D, S |
+| Со встроенным каналом N-типа, общего назначения, сдвоенный | MOSFET_DEP_N_GENERAL_2U | VT?A…VT?B | G1, D1, S1, G2, D2, S2 |
 | Со встроенным каналом P-типа, общего назначения | MOSFET_DEP_P_GENERAL | VT? | G, D, S |
+| Со встроенным каналом P-типа, общего назначения, сдвоенный | MOSFET_DEP_P_GENERAL_2U | VT?A…VT?B | G1, D1, S1, G2, D2, S2 |
 | С индуцированным каналом N-типа, общего назначения | MOSFET_ENH_N_GENERAL | VT? | G, D, S |
+| С индуцированным каналом N-типа, общего назначения, сдвоенный | MOSFET_ENH_N_GENERAL_2U | VT?A…VT?B | G1, D1, S1, G2, D2, S2 |
 | С индуцированным каналом P-типа, общего назначения | MOSFET_ENH_P_GENERAL | VT? | G, D, S |
+| С индуцированным каналом P-типа, общего назначения, сдвоенный | MOSFET_ENH_P_GENERAL_2U | VT?A…VT?B | G1, D1, S1, G2, D2, S2 |
 | Земля, общая точка, питание: |
 | Общая точка | POWER_COM | #PWR | COM |
 | Питание | POWER_V | #PWR | V |
