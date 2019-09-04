@@ -43,16 +43,16 @@ KiCad Library
 | Male, 064 pins, field width – 20 | CONNECTOR_M_064_20 | XP? | 1…64 |
 | Male coaxial power connector, field width – 20 | CONNECTOR_M_BARREL_20 | XP? | 1, 3, 2 |
 | Diode: |
-| Seven-segment indicator, 1 digit, common anode | DIODE_7SEG_1DIG_CA | HG? | A1, CA…CH |
-| Seven-segment indicator, 1 digit, common cathode | DIODE_7SEG_1DIG_CC | HG? | C1, AA…AH |
-| Seven-segment indicator, 2 digits, common anode, dynamic control | DIODE_7SEG_2DIG_CA_D | HG? | A1, A2, CA…CH |
-| Seven-segment indicator, 2 digits, common anode, static control | DIODE_7SEG_2DIG_CA_S | HG?A…HG?B | A1, C1A…C1H, A2, C2A…C2H |
-| Seven-segment indicator, 2 digits, common cathode, dynamic control | DIODE_7SEG_2DIG_CC_D | HG? | C1, C2, AA…AH |
-| Seven-segment indicator, 2 digits, common cathode, static control | DIODE_7SEG_2DIG_CC_S | HG?A…HG?B | C1, A1A…A1H, C2, A2A…A2H |
-| Seven-segment indicator, 3 digits, common anode, dynamic control | DIODE_7SEG_3DIG_CA_D | HG? | A1, A2, A3, CA…CH |
-| Seven-segment indicator, 3 digits, common cathode, dynamic control | DIODE_7SEG_3DIG_CC_D | HG? | C1, C2, C3, AA…AH |
-| Seven-segment indicator, 4 digits, common anode, static control | DIODE_7SEG_4DIG_CA_S | HG?A…HG?D | A1, C1A…C1H, A2, C2A…C2H, A3, C3A…C3H, A4, C4A…C4H |
-| Seven-segment indicator, 4 digits, common cathode, static control | DIODE_7SEG_4DIG_CC_S | HG?A…HG?D | C1, A1A…A1H, C2, A2A…A2H, C3, A3A…A3H, C4, A4A…A4H |
+| Seven-segment indicator, 1 digit, common anode | DIODE_7SEG_1DIG_CA | HG? | A, CA…CH |
+| Seven-segment indicator, 1 digit, common cathode | DIODE_7SEG_1DIG_CC | HG? | C, AA…AH |
+| Seven-segment indicator, 2 digits, common anode, dynamic control | DIODE_7SEG_2DIG_CA_D | HG? | 1A, 2A, CA…CH |
+| Seven-segment indicator, 2 digits, common anode, static control | DIODE_7SEG_2DIG_CA_S | HG?A…HG?B | 1A, 1CA…1CH, 2A, 2CA…2CH |
+| Seven-segment indicator, 2 digits, common cathode, dynamic control | DIODE_7SEG_2DIG_CC_D | HG? | 1C, 2C, AA…AH |
+| Seven-segment indicator, 2 digits, common cathode, static control | DIODE_7SEG_2DIG_CC_S | HG?A…HG?B | 1C, 1AA…1AH, 2C, 2AA…2AH |
+| Seven-segment indicator, 3 digits, common anode, dynamic control | DIODE_7SEG_3DIG_CA_D | HG? | 1A, 2A, 3A, CA…CH |
+| Seven-segment indicator, 3 digits, common cathode, dynamic control | DIODE_7SEG_3DIG_CC_D | HG? | 1C, 2C, 3C, AA…AH |
+| Seven-segment indicator, 4 digits, common anode, static control | DIODE_7SEG_4DIG_CA_S | HG?A…HG?D | 1A, 1CA…1CH, 2A, 2CA…2CH, 3A, 3CA…3CH, 4A, 4CA…4CH |
+| Seven-segment indicator, 4 digits, common cathode, static control | DIODE_7SEG_4DIG_CC_S | HG?A…HG?D | 1C, 1AA…1AH, 2C, 2AA…2AH, 3C, 3AA…3AH, 4C, 4AA…4AH |
 | Backward | DIODE_BACKWARD | VD? | A, C |
 | General-purpose | DIODE_GENERAL | VD? | A, C |
 | General-purpose bridge | DIODE_GENERAL_BRIDGE | VD? | ~~1, ~~2, +, - |
@@ -196,16 +196,16 @@ KiCad Library
 | Вилка, 064 конт., ширина поля – 20 | CONNECTOR_M_064_20 | XP? | 1…64 |
 | Вилка коаксиального разъема питания, ширина поля – 20 | CONNECTOR_M_BARREL_20 | XP? | 1, 3, 2 |
 | Диод: |
-| Семисегментный индикатор, 1 разряд, общий анод | DIODE_7SEG_1DIG_CA | HG? | A1, CA…CH |
-| Семисегментный индикатор, 1 разряд, общий катод | DIODE_7SEG_1DIG_CC | HG? | C1, AA…AH |
-| Семисегментный индикатор, 2 разряда, общий анод, динамическая индикация | DIODE_7SEG_2DIG_CA_D | HG? | A1, A2, CA…CH |
-| Семисегментный индикатор, 2 разряда, общий анод, статическая индикация | DIODE_7SEG_2DIG_CA_S | HG?A…HG?B | A1, C1A…C1H, A2, C2A…C2H |
-| Семисегментный индикатор, 2 разряда, общий катод, динамическая индикация | DIODE_7SEG_2DIG_CC_D | HG? | C1, C2, AA…AH |
-| Семисегментный индикатор, 2 разряда, общий катод, статическая индикация | DIODE_7SEG_2DIG_CC_S | HG?A…HG?B | C1, A1A…A1H, C2, A2A…A2H |
-| Семисегментный индикатор, 3 разряда, общий анод, динамическая индикация | DIODE_7SEG_3DIG_CA_D | HG? | A1, A2, A3, CA…CH |
-| Семисегментный индикатор, 3 разряда, общий катод, динамическая индикация | DIODE_7SEG_3DIG_CC_D | HG? | C1, C2, C3, AA…AH |
-| Семисегментный индикатор, 4 разряда, общий анод, статическая индикация | DIODE_7SEG_4DIG_CA_S | HG?A…HG?D | A1, C1A…C1H, A2, C2A…C2H, A3, C3A…C3H, A4, C4A…C4H |
-| Семисегментный индикатор, 4 разряда, общий катод, статическая индикация | DIODE_7SEG_4DIG_CC_S | HG?A…HG?D | C1, A1A…A1H, C2, A2A…A2H, C3, A3A…A3H, C4, A4A…A4H |
+| Семисегментный индикатор, 1 разряд, общий анод | DIODE_7SEG_1DIG_CA | HG? | A, CA…CH |
+| Семисегментный индикатор, 1 разряд, общий катод | DIODE_7SEG_1DIG_CC | HG? | C, AA…AH |
+| Семисегментный индикатор, 2 разряда, общий анод, динамическая индикация | DIODE_7SEG_2DIG_CA_D | HG? | 1A, 2A, CA…CH |
+| Семисегментный индикатор, 2 разряда, общий анод, статическая индикация | DIODE_7SEG_2DIG_CA_S | HG?A…HG?B | 1A, 1CA…1CH, 2A, 2CA…2CH |
+| Семисегментный индикатор, 2 разряда, общий катод, динамическая индикация | DIODE_7SEG_2DIG_CC_D | HG? | 1C, 2C, AA…AH |
+| Семисегментный индикатор, 2 разряда, общий катод, статическая индикация | DIODE_7SEG_2DIG_CC_S | HG?A…HG?B | 1C, 1AA…1AH, 2C, 2AA…2AH |
+| Семисегментный индикатор, 3 разряда, общий анод, динамическая индикация | DIODE_7SEG_3DIG_CA_D | HG? | 1A, 2A, 3A, CA…CH |
+| Семисегментный индикатор, 3 разряда, общий катод, динамическая индикация | DIODE_7SEG_3DIG_CC_D | HG? | 1C, 2C, 3C, AA…AH |
+| Семисегментный индикатор, 4 разряда, общий анод, статическая индикация | DIODE_7SEG_4DIG_CA_S | HG?A…HG?D | 1A, 1CA…1CH, 2A, 2CA…2CH, 3A, 3CA…3CH, 4A, 4CA…4CH |
+| Семисегментный индикатор, 4 разряда, общий катод, статическая индикация | DIODE_7SEG_4DIG_CC_S | HG?A…HG?D | 1C, 1AA…1AH, 2C, 2AA…2AH, 3C, 3AA…3AH, 4C, 4AA…4AH |
 | Обращённый | DIODE_BACKWARD | VD? | A, C |
 | Общего назначения | DIODE_GENERAL | VD? | A, C |
 | Мост общего назначения | DIODE_GENERAL_BRIDGE | VD? | ~~1, ~~2, +, - |
