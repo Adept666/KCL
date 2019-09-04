@@ -124,6 +124,25 @@ KiCad Library
 | Varistor (horizontal) | RESISTOR_VARISTOR_H | RU? | 1, 2 |
 | Varistor (vertical) | RESISTOR_VARISTOR_V | RU? | 1, 2 |
 | Switch: |
+| Button, lock, 02 poles, 01 throw, normally open | SWITCH_BUTTON_LOCK_02P_01T_NO | SB? | COM1, NO1, COM2, NO2 |
+| Button, lock, 02 poles, 02 throws | SWITCH_BUTTON_LOCK_02P_02T | SB? | COM1, NO1, NC1, COM2, NO2, NC2 |
+| Button, lock, 03 poles, 02 throws | SWITCH_BUTTON_LOCK_03P_02T | SB? | COM1, NO1, NC1, COM2, NO2, NC2, COM3, NO3, NC3 |
+| Button, non-lock, 01 pole, 01 throw, normally open | SWITCH_BUTTON_NON-LOCK_01P_01T_NO | SB? | COM, NO |
+| 01 pole, 01 throw, normally closed | SWITCH_GENERAL_01P_01T_NC | SA? | COM, NC |
+| 01 pole, 01 throw, normally open | SWITCH_GENERAL_01P_01T_NO | SA? | COM, NO |
+| 01 pole, 01 throw, normally open, 02 units | SWITCH_GENERAL_01P_01T_NO_02U | SA?A…SA?B | 1COM, 1NO, 2COM, 2NO |
+| 01 pole, 01 throw, normally open, 03 units | SWITCH_GENERAL_01P_01T_NO_03U | SA?A…SA?C | 1COM, 1NO, 2COM, 2NO, 3COM, 3NO |
+| 01 pole, 01 throw, normally open, 04 units | SWITCH_GENERAL_01P_01T_NO_04U | SA?A…SA?D | 1COM, 1NO, 2COM, 2NO, 3COM, 3NO, 4COM, 4NO, |
+| 01 pole, 01 throw, normally open, 05 units | SWITCH_GENERAL_01P_01T_NO_05U | SA?A…SA?E | 1COM, 1NO, 2COM, 2NO, 3COM, 3NO, 4COM, 4NO, 5COM, 5NO, |
+| 01 pole, 01 throw, normally open, 06 units | SWITCH_GENERAL_01P_01T_NO_06U | SA?A…SA?F | 1COM, 1NO, 2COM, 2NO, 3COM, 3NO, 4COM, 4NO, 5COM, 5NO, 6COM, 6NO, |
+| 01 pole, 01 throw, normally open, 07 units | SWITCH_GENERAL_01P_01T_NO_07U | SA?A…SA?G | 1COM, 1NO, 2COM, 2NO, 3COM, 3NO, 4COM, 4NO, 5COM, 5NO, 6COM, 6NO, 7COM, 7NO, |
+| 01 pole, 01 throw, normally open, 08 units | SWITCH_GENERAL_01P_01T_NO_08U | SA?A…SA?H | 1COM, 1NO, 2COM, 2NO, 3COM, 3NO, 4COM, 4NO, 5COM, 5NO, 6COM, 6NO, 7COM, 7NO, 8COM, 8NO, |
+| 01 pole, 01 throw, normally open, 09 units | SWITCH_GENERAL_01P_01T_NO_09U | SA?A…SA?I | 1COM, 1NO, 2COM, 2NO, 3COM, 3NO, 4COM, 4NO, 5COM, 5NO, 6COM, 6NO, 7COM, 7NO, 8COM, 8NO, 9COM, 9NO, |
+| 01 pole, 01 throw, normally open, 10 units | SWITCH_GENERAL_01P_01T_NO_10U | SA?A…SA?J | 1COM, 1NO, 2COM, 2NO, 3COM, 3NO, 4COM, 4NO, 5COM, 5NO, 6COM, 6NO, 7COM, 7NO, 8COM, 8NO, 9COM, 9NO, 10COM, 10NO, |
+| 01 pole, 01 throw, normally open, 12 units | SWITCH_GENERAL_01P_01T_NO_12U | SA?A…SA?L | 1COM, 1NO, 2COM, 2NO, 3COM, 3NO, 4COM, 4NO, 5COM, 5NO, 6COM, 6NO, 7COM, 7NO, 8COM, 8NO, 9COM, 9NO, 10COM, 10NO, 11COM, 11NO, 12COM, 12NO, |
+| 01 pole, 02 throws | SWITCH_GENERAL_01P_02T | SA? | COM, NO, NC |
+| 02 poles, 02 throws | SWITCH_GENERAL_02P_02T | SA? | COM1, NO1, NC1, COM2, NO2, NC2 |
+| 04 poles, 02 throws | SWITCH_GENERAL_04P_02T | SA? | COM1, NO1, NC1, COM2, NO2, NC2, COM3, NO3, NC3, COM4, NO4, NC4 |
 | SK-23D29-G | SWITCH_SPECIAL_SK-23D29-G | SA? | 1…8 |
 | Transformer: |
 | 2 windings, ferromagnetic or ferrimagnetic core, turns depicted: 4, 3 | TRANSFORMER_2_FMC_4_3 | T?A…T?B | 1+, 1-, 2+, 2- |
@@ -258,6 +277,25 @@ KiCad Library
 | Варистор (изображён горизонтально) | RESISTOR_VARISTOR_H | RU? | 1, 2 |
 | Варистор (изображён вертикально) | RESISTOR_VARISTOR_V | RU? | 1, 2 |
 | Переключатель: |
+| Кнопка с фиксацией, 02 полюса, 01 направление, замыкающий контакт | SWITCH_BUTTON_LOCK_02P_01T_NO | SB? | COM1, NO1, COM2, NO2 |
+| Кнопка с фиксацией, 02 полюса, 02 направления | SWITCH_BUTTON_LOCK_02P_02T | SB? | COM1, NO1, NC1, COM2, NO2, NC2 |
+| Кнопка с фиксацией, 03 полюса, 02 направления | SWITCH_BUTTON_LOCK_03P_02T | SB? | COM1, NO1, NC1, COM2, NO2, NC2, COM3, NO3, NC3 |
+| Кнопка без фиксации, 01 полюс, 01 направление, замыкающий контакт | SWITCH_BUTTON_NON-LOCK_01P_01T_NO | SB? | COM, NO |
+| 01 полюс, 01 направление, размыкающий контакт | SWITCH_GENERAL_01P_01T_NC | SA? | COM, NC |
+| 01 полюс, 01 направление, замыкающий контакт | SWITCH_GENERAL_01P_01T_NO | SA? | COM, NO |
+| 01 полюс, 01 направление, замыкающий контакт, 02 юнита | SWITCH_GENERAL_01P_01T_NO_02U | SA?A…SA?B | 1COM, 1NO, 2COM, 2NO |
+| 01 полюс, 01 направление, замыкающий контакт, 03 юнита | SWITCH_GENERAL_01P_01T_NO_03U | SA?A…SA?C | 1COM, 1NO, 2COM, 2NO, 3COM, 3NO |
+| 01 полюс, 01 направление, замыкающий контакт, 04 юнита | SWITCH_GENERAL_01P_01T_NO_04U | SA?A…SA?D | 1COM, 1NO, 2COM, 2NO, 3COM, 3NO, 4COM, 4NO, |
+| 01 полюс, 01 направление, замыкающий контакт, 05 юнитов | SWITCH_GENERAL_01P_01T_NO_05U | SA?A…SA?E | 1COM, 1NO, 2COM, 2NO, 3COM, 3NO, 4COM, 4NO, 5COM, 5NO, |
+| 01 полюс, 01 направление, замыкающий контакт, 06 юнитов | SWITCH_GENERAL_01P_01T_NO_06U | SA?A…SA?F | 1COM, 1NO, 2COM, 2NO, 3COM, 3NO, 4COM, 4NO, 5COM, 5NO, 6COM, 6NO, |
+| 01 полюс, 01 направление, замыкающий контакт, 07 юнитов | SWITCH_GENERAL_01P_01T_NO_07U | SA?A…SA?G | 1COM, 1NO, 2COM, 2NO, 3COM, 3NO, 4COM, 4NO, 5COM, 5NO, 6COM, 6NO, 7COM, 7NO, |
+| 01 полюс, 01 направление, замыкающий контакт, 08 юнитов | SWITCH_GENERAL_01P_01T_NO_08U | SA?A…SA?H | 1COM, 1NO, 2COM, 2NO, 3COM, 3NO, 4COM, 4NO, 5COM, 5NO, 6COM, 6NO, 7COM, 7NO, 8COM, 8NO, |
+| 01 полюс, 01 направление, замыкающий контакт, 09 юнитов | SWITCH_GENERAL_01P_01T_NO_09U | SA?A…SA?I | 1COM, 1NO, 2COM, 2NO, 3COM, 3NO, 4COM, 4NO, 5COM, 5NO, 6COM, 6NO, 7COM, 7NO, 8COM, 8NO, 9COM, 9NO, |
+| 01 полюс, 01 направление, замыкающий контакт, 10 юнитов | SWITCH_GENERAL_01P_01T_NO_10U | SA?A…SA?J | 1COM, 1NO, 2COM, 2NO, 3COM, 3NO, 4COM, 4NO, 5COM, 5NO, 6COM, 6NO, 7COM, 7NO, 8COM, 8NO, 9COM, 9NO, 10COM, 10NO, |
+| 01 полюс, 01 направление, замыкающий контакт, 12 юнитов | SWITCH_GENERAL_01P_01T_NO_12U | SA?A…SA?L | 1COM, 1NO, 2COM, 2NO, 3COM, 3NO, 4COM, 4NO, 5COM, 5NO, 6COM, 6NO, 7COM, 7NO, 8COM, 8NO, 9COM, 9NO, 10COM, 10NO, 11COM, 11NO, 12COM, 12NO, |
+| 01 полюс, 02 направления | SWITCH_GENERAL_01P_02T | SA? | COM, NO, NC |
+| 02 полюса, 02 направления | SWITCH_GENERAL_02P_02T | SA? | COM1, NO1, NC1, COM2, NO2, NC2 |
+| 04 полюса, 02 направления | SWITCH_GENERAL_04P_02T | SA? | COM1, NO1, NC1, COM2, NO2, NC2, COM3, NO3, NC3, COM4, NO4, NC4 |
 | SK-23D29-G | SWITCH_SPECIAL_SK-23D29-G | SA? | 1…8 |
 | Трансформатор: |
 | 2 обмотки, ферромагнитный или ферримагнитный сердечник, изображено витков: 4, 3 | TRANSFORMER_2_FMC_4_3 | T?A…T?B | 1+, 1-, 2+, 2- |
