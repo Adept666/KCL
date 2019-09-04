@@ -124,10 +124,7 @@ KiCad Library
 | Varistor (horizontal) | RESISTOR_VARISTOR_H | RU? | 1, 2 |
 | Varistor (vertical) | RESISTOR_VARISTOR_V | RU? | 1, 2 |
 | Switch: |
-| Switch block, 5 channels | SWITCH_BLOCK_05 | SA?A…SA?E | 1…10 |
-| Button, normally open, 1 pole | SWITCH_BUTTON_NO_01 | SB? | 1COM, 1NO |
 | SK-23D29-G | SWITCH_SPECIAL_SK-23D29-G | SA? | 1…8 |
-| SK-42D01-G | SWITCH_SPECIAL_SK-42D01-G | SA? | 1…12 |
 | Transformer: |
 | 2 windings, ferromagnetic or ferrimagnetic core, turns depicted: 4, 3 | TRANSFORMER_2_FMC_4_3 | T?A…T?B | 1+, 1-, 2+, 2- |
 | 2 windings, ferromagnetic or ferrimagnetic core, turns depicted: 4, 4 | TRANSFORMER_2_FMC_4_4 | T?A…T?B | 1+, 1-, 2+, 2- |
@@ -261,10 +258,7 @@ KiCad Library
 | Варистор (изображён горизонтально) | RESISTOR_VARISTOR_H | RU? | 1, 2 |
 | Варистор (изображён вертикально) | RESISTOR_VARISTOR_V | RU? | 1, 2 |
 | Переключатель: |
-| Блок переключателей, 5 каналов | SWITCH_BLOCK_05 | SA?A…SA?E | 1…10 |
-| Кнопка замыкающая, 1 полоса | SWITCH_BUTTON_NO_01 | SB? | 1COM, 1NO |
 | SK-23D29-G | SWITCH_SPECIAL_SK-23D29-G | SA? | 1…8 |
-| SK-42D01-G | SWITCH_SPECIAL_SK-42D01-G | SA? | 1…12 |
 | Трансформатор: |
 | 2 обмотки, ферромагнитный или ферримагнитный сердечник, изображено витков: 4, 3 | TRANSFORMER_2_FMC_4_3 | T?A…T?B | 1+, 1-, 2+, 2- |
 | 2 обмотки, ферромагнитный или ферримагнитный сердечник, изображено витков: 4, 4 | TRANSFORMER_2_FMC_4_4 | T?A…T?B | 1+, 1-, 2+, 2- |
