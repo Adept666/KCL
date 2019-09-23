@@ -24,6 +24,10 @@ $CMP LM324
 F http://www.ti.com/lit/ds/symlink/lm324.pdf
 $ENDCMP
 #
+$CMP LM741CN
+F http://www.ti.com/lit/ds/symlink/lm741.pdf
+$ENDCMP
+#
 $CMP NA555
 F http://www.ti.com/lit/ds/symlink/na555.pdf
 $ENDCMP
