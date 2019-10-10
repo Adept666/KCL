@@ -56,4 +56,12 @@ $CMP SE555
 F http://www.ti.com/lit/ds/symlink/se555.pdf
 $ENDCMP
 #
+$CMP TPS562200
+F http://www.ti.com/lit/ds/symlink/tps562200.pdf
+$ENDCMP
+#
+$CMP TPS563200
+F http://www.ti.com/lit/ds/symlink/tps563200.pdf
+$ENDCMP
+#
 #End Doc Library
