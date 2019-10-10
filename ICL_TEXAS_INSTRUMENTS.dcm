@@ -64,4 +64,8 @@ $CMP TPS563200
 F http://www.ti.com/lit/ds/symlink/tps563200.pdf
 $ENDCMP
 #
+$CMP TS5A3157
+F http://www.ti.com/lit/ds/symlink/ts5a3157.pdf
+$ENDCMP
+#
 #End Doc Library
