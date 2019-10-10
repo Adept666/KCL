@@ -8,4 +8,8 @@ $CMP TL082
 F http://www.st.com/resource/en/datasheet/tl082.pdf
 $ENDCMP
 #
+$CMP USBL6-2
+F http://www.st.com/resource/en/datasheet/usblc6-2.pdf
+$ENDCMP
+#
 #End Doc Library
