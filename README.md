@@ -22,6 +22,8 @@ KiCad Library
 | Female, 001 pin, field width – 20 | CONNECTOR_F_001_20 | XS? | 1 |
 | Female, 002 pins, field width – 20 | CONNECTOR_F_002_20 | XS? | 1, 2 |
 | Female, 003 pins, field width – 20 | CONNECTOR_F_003_20 | XS? | 1…3 |
+| Female, 005 pins, field width – 20 | CONNECTOR_F_005_20 | XS? | 1…5 |
+| Female, 032 pins, field width – 20 | CONNECTOR_F_032_20 | XS? | 1…32 |
 | ST-008X-05, field width – 20 | CONNECTOR_F_SPECIAL_ST-008X-05_20 | XS? | 1, 2, 4 |
 | Male, 001 pin, field width – 20 | CONNECTOR_M_001_20 | XP? | 1 |
 | Male, 002 pins, field width – 20 | CONNECTOR_M_002_20 | XP? | 1, 2 |
@@ -175,6 +177,8 @@ KiCad Library
 | Розетка, 001 конт., ширина поля – 20 | CONNECTOR_F_001_20 | XS? | 1 |
 | Розетка, 002 конт., ширина поля – 20 | CONNECTOR_F_002_20 | XS? | 1, 2 |
 | Розетка, 003 конт., ширина поля – 20 | CONNECTOR_F_003_20 | XS? | 1…3 |
+| Розетка, 005 конт., ширина поля – 20 | CONNECTOR_F_005_20 | XS? | 1…5 |
+| Розетка, 032 конт., ширина поля – 20 | CONNECTOR_F_032_20 | XS? | 1…32 |
 | ST-008X-05, ширина поля – 20 | CONNECTOR_F_SPECIAL_ST-008X-05_20 | XS? | 1, 2, 4 |
 | Вилка, 001 конт., ширина поля – 20 | CONNECTOR_M_001_20 | XP? | 1 |
 | Вилка, 002 конт., ширина поля – 20 | CONNECTOR_M_002_20 | XP? | 1, 2 |
