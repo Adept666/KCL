@@ -45,6 +45,10 @@ KiCad Library
 | Male, 060 pins, field width – 20 | CONNECTOR_M_060_20 | XP? | 1…60 |
 | Male, 064 pins, field width – 20 | CONNECTOR_M_064_20 | XP? | 1…64 |
 | Male coaxial power connector, field width – 20 | CONNECTOR_M_BARREL_20 | XP? | 1, 3, 2 |
+| Crystal: |
+| 2 electrodes | CRYSTAL_2 | BQ? | 1, 2 |
+| 3 electrodes | CRYSTAL_3 | BQ? | 1…3 |
+| 4 electrodes | CRYSTAL_4 | BQ? | 1…4 |
 | Diode: |
 | Seven-segment indicator, 1 digit, common anode | DIODE_7SEG_1DIG_CA | HG? | A, CA…CH |
 | Seven-segment indicator, 1 digit, common cathode | DIODE_7SEG_1DIG_CC | HG? | C, AA…AH |
@@ -201,6 +205,10 @@ KiCad Library
 | Вилка, 060 конт., ширина поля – 20 | CONNECTOR_M_060_20 | XP? | 1…60 |
 | Вилка, 064 конт., ширина поля – 20 | CONNECTOR_M_064_20 | XP? | 1…64 |
 | Вилка коаксиального разъема питания, ширина поля – 20 | CONNECTOR_M_BARREL_20 | XP? | 1, 3, 2 |
+| Пьезоэлектрический элемент: |
+| 2 электрода | CRYSTAL_2 | BQ? | 1, 2 |
+| 3 электрода | CRYSTAL_3 | BQ? | 1…3 |
+| 4 электрода | CRYSTAL_4 | BQ? | 1…4 |
 | Диод: |
 | Семисегментный индикатор, 1 разряд, общий анод | DIODE_7SEG_1DIG_CA | HG? | A, CA…CH |
 | Семисегментный индикатор, 1 разряд, общий катод | DIODE_7SEG_1DIG_CC | HG? | C, AA…AH |
