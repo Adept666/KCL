@@ -100,6 +100,11 @@ KiCad Library
 | Air core | INDUCTOR_AC | L? | 1, 2 |
 | Ferromagnetic or ferrimagnetic core | INDUCTOR_FMC | L? | 1, 2 |
 | Magnetodielectric core | INDUCTOR_MDC | L? | 1, 2 |
+| Junction gate field-effect transistor: |
+| N-type, general-purpose | JFET_N_GENERAL | VT? | G, D, S |
+| N-type, general-purpose, dual | JFET_N_GENERAL_2U | VT?A…VT?B | G1, D1, S1, G2, D2, S2 |
+| P-type, general-purpose | JFET_P_GENERAL | VT? | G, D, S |
+| P-type, general-purpose, dual | JFET_P_GENERAL_2U | VT?A…VT?B | G1, D1, S1, G2, D2, S2 |
 | Jumper: |
 | Jumper | JUMPER | J? | J, J |
 | Junction: |
@@ -260,6 +265,11 @@ KiCad Library
 | Без магнитопровода | INDUCTOR_AC | L? | 1, 2 |
 | С ферромагнитным или ферримагнитным сердечником | INDUCTOR_FMC | L? | 1, 2 |
 | С магнитодиэлектрическим сердечником | INDUCTOR_MDC | L? | 1, 2 |
+| Полевой транзистор с управляющим P-N-переходом: |
+| С каналом N-типа, общего назначения | JFET_N_GENERAL | VT? | G, D, S |
+| С каналом N-типа, общего назначения, сдвоенный | JFET_N_GENERAL_2U | VT?A…VT?B | G1, D1, S1, G2, D2, S2 |
+| С каналом P-типа, общего назначения | JFET_P_GENERAL | VT? | G, D, S |
+| С каналом P-типа, общего назначения, сдвоенный | JFET_P_GENERAL_2U | VT?A…VT?B | G1, D1, S1, G2, D2, S2 |
 | Перемычка: |
 | Перемычка | JUMPER | J? | J, J |
 | Соединение: |
