@@ -110,6 +110,8 @@ KiCad Library
 | Junction: |
 | Dismountable | JUNCTION_DISMOUNTABLE | X? | 1, 1, 1, 1 |
 | Solder | JUNCTION_SOLDER | X? | 1 |
+| Solder, 2 units | JUNCTION_SOLDER_2U | X?A…X?B | 1, 2 |
+| Solder, 3 units | JUNCTION_SOLDER_3U | X?A…X?C | 1…3 |
 | Metal-oxide-semiconductor field-effect transistor: |
 | Depletion-mode, N-channel, general-purpose | MOSFET_DEP_N_GENERAL | VT? | G, D, S |
 | Depletion-mode, N-channel, general-purpose, dual | MOSFET_DEP_N_GENERAL_2U | VT?A…VT?B | G1, D1, S1, G2, D2, S2 |
@@ -275,6 +277,8 @@ KiCad Library
 | Соединение: |
 | Разборное | JUNCTION_DISMOUNTABLE | X? | 1, 1, 1, 1 |
 | Неразборное | JUNCTION_SOLDER | X? | 1 |
+| Неразборное, 2 юнита | JUNCTION_SOLDER_2U | X?A…X?B | 1, 2 |
+| Неразборное, 3 юнита | JUNCTION_SOLDER_3U | X?A…X?C | 1…3 |
 | Полевой транзистор с изолированным затвором: |
 | Со встроенным каналом N-типа, общего назначения | MOSFET_DEP_N_GENERAL | VT? | G, D, S |
 | Со встроенным каналом N-типа, общего назначения, сдвоенный | MOSFET_DEP_N_GENERAL_2U | VT?A…VT?B | G1, D1, S1, G2, D2, S2 |
