@@ -101,24 +101,24 @@ KiCad Library
 | Ferromagnetic or ferrimagnetic core | INDUCTOR_FMC | L? | 1, 2 |
 | Magnetodielectric core | INDUCTOR_MDC | L? | 1, 2 |
 | Junction gate field-effect transistor: |
-| N-type, general-purpose | JFET_N_GENERAL | VT? | G, D, S |
-| N-type, general-purpose, dual | JFET_N_GENERAL_2U | VT?A…VT?B | G1, D1, S1, G2, D2, S2 |
-| P-type, general-purpose | JFET_P_GENERAL | VT? | G, D, S |
-| P-type, general-purpose, dual | JFET_P_GENERAL_2U | VT?A…VT?B | G1, D1, S1, G2, D2, S2 |
+| N-channel, general-purpose | JFET_N_GENERAL | VT? | G, D, S |
+| N-channel, general-purpose, dual | JFET_N_GENERAL_2U | VT?A…VT?B | G1, D1, S1, G2, D2, S2 |
+| P-channel, general-purpose | JFET_P_GENERAL | VT? | G, D, S |
+| P-channel, general-purpose, dual | JFET_P_GENERAL_2U | VT?A…VT?B | G1, D1, S1, G2, D2, S2 |
 | Jumper: |
 | Jumper | JUMPER | J? | J, J |
 | Junction: |
 | Dismountable | JUNCTION_DISMOUNTABLE | X? | 1, 1, 1, 1 |
 | Solder | JUNCTION_SOLDER | X? | 1 |
 | Metal-oxide-semiconductor field-effect transistor: |
-| Depletion-mode, N-type, general-purpose | MOSFET_DEP_N_GENERAL | VT? | G, D, S |
-| Depletion-mode, N-type, general-purpose, dual | MOSFET_DEP_N_GENERAL_2U | VT?A…VT?B | G1, D1, S1, G2, D2, S2 |
-| Depletion-mode, P-type, general-purpose | MOSFET_DEP_P_GENERAL | VT? | G, D, S |
-| Depletion-mode, P-type, general-purpose, dual | MOSFET_DEP_P_GENERAL_2U | VT?A…VT?B | G1, D1, S1, G2, D2, S2 |
-| Enhancement-mode, N-type, general-purpose | MOSFET_ENH_N_GENERAL | VT? | G, D, S |
-| Enhancement-mode, N-type, general-purpose, dual | MOSFET_ENH_N_GENERAL_2U | VT?A…VT?B | G1, D1, S1, G2, D2, S2 |
-| Enhancement-mode, P-type, general-purpose | MOSFET_ENH_P_GENERAL | VT? | G, D, S |
-| Enhancement-mode, P-type, general-purpose, dual | MOSFET_ENH_P_GENERAL_2U | VT?A…VT?B | G1, D1, S1, G2, D2, S2 |
+| Depletion-mode, N-channel, general-purpose | MOSFET_DEP_N_GENERAL | VT? | G, D, S |
+| Depletion-mode, N-channel, general-purpose, dual | MOSFET_DEP_N_GENERAL_2U | VT?A…VT?B | G1, D1, S1, G2, D2, S2 |
+| Depletion-mode, P-channel, general-purpose | MOSFET_DEP_P_GENERAL | VT? | G, D, S |
+| Depletion-mode, P-channel, general-purpose, dual | MOSFET_DEP_P_GENERAL_2U | VT?A…VT?B | G1, D1, S1, G2, D2, S2 |
+| Enhancement-mode, N-channel, general-purpose | MOSFET_ENH_N_GENERAL | VT? | G, D, S |
+| Enhancement-mode, N-channel, general-purpose, dual | MOSFET_ENH_N_GENERAL_2U | VT?A…VT?B | G1, D1, S1, G2, D2, S2 |
+| Enhancement-mode, P-channel, general-purpose | MOSFET_ENH_P_GENERAL | VT? | G, D, S |
+| Enhancement-mode, P-channel, general-purpose, dual | MOSFET_ENH_P_GENERAL_2U | VT?A…VT?B | G1, D1, S1, G2, D2, S2 |
 | Power: |
 | Common point | POWER_COM | #PWR | COM |
 | Power | POWER_V | #PWR | V |
