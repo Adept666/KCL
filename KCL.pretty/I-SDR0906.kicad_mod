@@ -1,8 +1,8 @@
-(module L-SDR0906 (layer F.Cu) (tedit 5BD7A297)
+(module I-SDR0906 (layer F.Cu) (tedit 5BD7A297)
   (fp_text reference REF** (at 0 -6.223) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.2)))
   )
-  (fp_text value L-SDR0906 (at 0 -7.493) (layer F.Fab) hide
+  (fp_text value I-SDR0906 (at 0 -7.493) (layer F.Fab) hide
     (effects (font (size 1 1) (thickness 0.2)))
   )
   (fp_arc (start 0 -5.461) (end 1.016 -5.461) (angle 180) (layer F.SilkS) (width 0.2))

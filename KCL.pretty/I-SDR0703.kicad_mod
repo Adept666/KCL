@@ -1,8 +1,8 @@
-(module L-SDR0703 (layer F.Cu) (tedit 5BD7A228)
+(module I-SDR0703 (layer F.Cu) (tedit 5BD7A228)
   (fp_text reference REF** (at 0 -3.175) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.2)))
   )
-  (fp_text value L-SDR0703 (at 0 -4.445) (layer F.Fab) hide
+  (fp_text value I-SDR0703 (at 0 -4.445) (layer F.Fab) hide
     (effects (font (size 1 1) (thickness 0.2)))
   )
   (fp_line (start -0.254 2.032) (end -0.254 1.524) (layer F.SilkS) (width 0.2))
