@@ -109,6 +109,8 @@ KiCad Library
 | Jumper | JUMPER | J? | J, J |
 | Junction: |
 | Dismountable | JUNCTION_DISMOUNTABLE | X? | 1, 1, 1, 1 |
+| Dismountable, 2 units | JUNCTION_DISMOUNTABLE_2U | X? | 1, 1, 1, 1, 2, 2, 2, 2 |
+| Dismountable, 3 units | JUNCTION_DISMOUNTABLE_3U | X? | 1, 1, 1, 1, 2, 2, 2, 2, 3, 3, 3, 3 |
 | Solder | JUNCTION_SOLDER | X? | 1 |
 | Solder, 2 units | JUNCTION_SOLDER_2U | X?A…X?B | 1, 2 |
 | Solder, 3 units | JUNCTION_SOLDER_3U | X?A…X?C | 1…3 |
@@ -276,6 +278,8 @@ KiCad Library
 | Перемычка | JUMPER | J? | J, J |
 | Соединение: |
 | Разборное | JUNCTION_DISMOUNTABLE | X? | 1, 1, 1, 1 |
+| Разборное, 2 юнита | JUNCTION_DISMOUNTABLE_2U | X? | 1, 1, 1, 1, 2, 2, 2, 2 |
+| Разборное, 3 юнита | JUNCTION_DISMOUNTABLE_3U | X? | 1, 1, 1, 1, 2, 2, 2, 2, 3, 3, 3, 3 |
 | Неразборное | JUNCTION_SOLDER | X? | 1 |
 | Неразборное, 2 юнита | JUNCTION_SOLDER_2U | X?A…X?B | 1, 2 |
 | Неразборное, 3 юнита | JUNCTION_SOLDER_3U | X?A…X?C | 1…3 |
