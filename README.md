@@ -25,6 +25,11 @@ KiCad Library
 | Female, 004 pins, field width – 20 | CONNECTOR_F_004_20 | XS? | 1…4 |
 | Female, 005 pins, field width – 20 | CONNECTOR_F_005_20 | XS? | 1…5 |
 | Female, 032 pins, field width – 20 | CONNECTOR_F_032_20 | XS? | 1…32 |
+| Female, audio jack, mono | CONNECTOR_F_AUDIO_MONO | XS? | T, S |
+| Female, audio jack, mono, switched | CONNECTOR_F_AUDIO_MONO_SW | XS? | T, TN, S, SN |
+| Female, audio jack, mono, switched (pin T only) | CONNECTOR_F_AUDIO_MONO_SW-T | XS? | T, TN, S |
+| Female, audio jack, stereo | CONNECTOR_F_AUDIO_STEREO | XS? | T, R, S |
+| Female, audio jack, stereo, switched | CONNECTOR_F_AUDIO_STEREO_SW | XS? | T, TN, R, RN, S, SN |
 | ST-008X-05, field width – 20 | CONNECTOR_F_SPECIAL_ST-008X-05_20 | XS? | 1, 2, 4 |
 | Male, 001 pin, field width – 20 | CONNECTOR_M_001_20 | XP? | 1 |
 | Male, 002 pins, field width – 20 | CONNECTOR_M_002_20 | XP? | 1, 2 |
@@ -44,7 +49,9 @@ KiCad Library
 | Male, 050 pins, field width – 20 | CONNECTOR_M_050_20 | XP? | 1…50 |
 | Male, 060 pins, field width – 20 | CONNECTOR_M_060_20 | XP? | 1…60 |
 | Male, 064 pins, field width – 20 | CONNECTOR_M_064_20 | XP? | 1…64 |
+| Male, barrel jack | CONNECTOR_M_BARREL | XP? | C, S |
 | Male coaxial power connector, field width – 20 | CONNECTOR_M_BARREL_20 | XP? | 1, 3, 2 |
+| Male, barrel jack, switched | CONNECTOR_M_BARREL_SW | XP? | C, S, SN |
 | Crystal: |
 | 2 electrodes | CRYSTAL_2 | BQ? | 1, 2 |
 | 3 electrodes | CRYSTAL_3 | BQ? | 1…3 |
@@ -194,6 +201,11 @@ KiCad Library
 | Розетка, 004 конт., ширина поля – 20 | CONNECTOR_F_004_20 | XS? | 1…4 |
 | Розетка, 005 конт., ширина поля – 20 | CONNECTOR_F_005_20 | XS? | 1…5 |
 | Розетка, 032 конт., ширина поля – 20 | CONNECTOR_F_032_20 | XS? | 1…32 |
+| Розетка, аудио, моно | CONNECTOR_F_AUDIO_MONO | XS? | T, S |
+| Розетка, аудио, моно, переключаемый | CONNECTOR_F_AUDIO_MONO_SW | XS? | T, TN, S, SN |
+| Розетка, аудио, моно, переключаемый (только контакт T) | CONNECTOR_F_AUDIO_MONO_SW-T | XS? | T, TN, S |
+| Розетка, аудио, стерео | CONNECTOR_F_AUDIO_STEREO | XS? | T, R, S |
+| Розетка, аудио, стерео, переключаемый | CONNECTOR_F_AUDIO_STEREO_SW | XS? | T, TN, R, RN, S, SN |
 | ST-008X-05, ширина поля – 20 | CONNECTOR_F_SPECIAL_ST-008X-05_20 | XS? | 1, 2, 4 |
 | Вилка, 001 конт., ширина поля – 20 | CONNECTOR_M_001_20 | XP? | 1 |
 | Вилка, 002 конт., ширина поля – 20 | CONNECTOR_M_002_20 | XP? | 1, 2 |
@@ -213,7 +225,9 @@ KiCad Library
 | Вилка, 050 конт., ширина поля – 20 | CONNECTOR_M_050_20 | XP? | 1…50 |
 | Вилка, 060 конт., ширина поля – 20 | CONNECTOR_M_060_20 | XP? | 1…60 |
 | Вилка, 064 конт., ширина поля – 20 | CONNECTOR_M_064_20 | XP? | 1…64 |
+| Вилка, коаксиальный разъем питания | CONNECTOR_M_BARREL | XP? | C, S |
 | Вилка коаксиального разъема питания, ширина поля – 20 | CONNECTOR_M_BARREL_20 | XP? | 1, 3, 2 |
+| Вилка, коаксиальный разъем питания, переключаемый | CONNECTOR_M_BARREL_SW | XP? | C, S, SN |
 | Пьезоэлектрический элемент: |
 | 2 электрода | CRYSTAL_2 | BQ? | 1, 2 |
 | 3 электрода | CRYSTAL_3 | BQ? | 1…3 |
