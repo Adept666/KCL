@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ADuM2400
+F http://www.analog.com/media/en/technical-documentation/data-sheets/ADuM2400_2401_2402.pdf
+$ENDCMP
+#
+$CMP ADuM2401
+F http://www.analog.com/media/en/technical-documentation/data-sheets/ADuM2400_2401_2402.pdf
+$ENDCMP
+#
+$CMP ADuM2402
+F http://www.analog.com/media/en/technical-documentation/data-sheets/ADuM2400_2401_2402.pdf
+$ENDCMP
+#
+#End Doc Library

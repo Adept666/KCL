@@ -1,8 +1,8 @@
-(module CP-RADIAL-D18.0-P07.5-d0.8 (layer F.Cu) (tedit 5BD79B7B)
+(module CP-RADIAL-D18.0-P07.5-d0.8 (layer F.Cu) (tedit 5CE42835)
   (fp_text reference REF** (at 0 -9.779) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.2)))
   )
-  (fp_text value CP-RADIAL-D18.0-P07.5-d0.8 (at 0 -11.049) (layer F.Fab)
+  (fp_text value CP-RADIAL-D18.0-P07.5-d0.8 (at 0 -11.049) (layer F.Fab) hide
     (effects (font (size 1 1) (thickness 0.2)))
   )
   (fp_circle (center 0 0) (end 9 0) (layer F.Fab) (width 0.2))

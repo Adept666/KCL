@@ -1,0 +1,12 @@
+(module B-PP3-HH (layer F.Cu) (tedit 5E590791)
+  (fp_text reference REF** (at 0 -13.97) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.2)))
+  )
+  (fp_text value B-PP3-HH (at 0 -15.24) (layer F.Fab) hide
+    (effects (font (size 1 1) (thickness 0.2)))
+  )
+  (fp_line (start -24.25 -13.25) (end 24.25 -13.25) (layer Dwgs.User) (width 0.2))
+  (fp_line (start -24.25 13.25) (end 24.25 13.25) (layer Dwgs.User) (width 0.2))
+  (fp_line (start -24.25 -13.25) (end -24.25 13.25) (layer Dwgs.User) (width 0.2))
+  (fp_line (start 24.25 -13.25) (end 24.25 13.25) (layer Dwgs.User) (width 0.2))
+)
