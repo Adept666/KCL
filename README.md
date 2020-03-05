@@ -172,6 +172,7 @@ KiCad Library
 | 2 windings, ferromagnetic or ferrimagnetic core, turns depicted: 4, 4 | TRANSFORMER_2_FMC_4_4 | T?A…T?B | 1+, 1-, 2+, 2- |
 | 3 windings, ferromagnetic or ferrimagnetic core, turns depicted: 4, 3, 3 | TRANSFORMER_3_FMC_4_3_3 | T?A…T?C | 1+, 1-, 2+, 2-, 3+, 3- |
 | Virtual component: |
+| Enclosure | VIRTUAL_ENCLOSURE | VE? |  |
 | Heat sink for 1 component | VIRTUAL_HEAT-SINK_1 | VHS? | 0, 0, 0, 0 |
 | Heat sink for 2 components | VIRTUAL_HEAT-SINK_2 | VHS?A…VHS?B | 0, 0, 0, 0, 0, 0, 0, 0 |
 | Heat sink for 3 components | VIRTUAL_HEAT-SINK_3 | VHS?A…VHS?C | 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 |
@@ -348,6 +349,7 @@ KiCad Library
 | 2 обмотки, ферромагнитный или ферримагнитный сердечник, изображено витков: 4, 4 | TRANSFORMER_2_FMC_4_4 | T?A…T?B | 1+, 1-, 2+, 2- |
 | 3 обмотки, ферромагнитный или ферримагнитный сердечник, изображено витков: 4, 3, 3 | TRANSFORMER_3_FMC_4_3_3 | T?A…T?C | 1+, 1-, 2+, 2-, 3+, 3- |
 | Виртуальный компонент: |
+| Корпус | VIRTUAL_ENCLOSURE | VE? |  |
 | Теплоотвод для 1 компонента | VIRTUAL_HEAT-SINK_1 | VHS? | 0, 0, 0, 0 |
 | Теплоотвод для 2 компонентов | VIRTUAL_HEAT-SINK_2 | VHS?A…VHS?B | 0, 0, 0, 0, 0, 0, 0, 0 |
 | Теплоотвод для 3 компонентов | VIRTUAL_HEAT-SINK_3 | VHS?A…VHS?C | 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 |
