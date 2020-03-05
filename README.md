@@ -358,7 +358,7 @@ KiCad Library
 
 ## Author
 
-Igor Vladimirovich Ivanov
+Igor Ivanov
 
 ## License
 
