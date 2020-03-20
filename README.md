@@ -131,8 +131,13 @@ KiCad Library
 | Power: |
 | Common point | POWER_COM | #PWR | COM |
 | Power | POWER_V | #PWR | V |
+| Power VA | POWER_VA | #PWR | VA |
+| Power VB | POWER_VB | #PWR | VB |
+| Power VC | POWER_VC | #PWR | VC |
 | Power VCC | POWER_VCC | #PWR | VCC |
+| Power VD | POWER_VD | #PWR | VD |
 | Power VDD | POWER_VDD | #PWR | VDD |
+| Power VE | POWER_VE | #PWR | VE |
 | Resistor: |
 | General-purpose | RESISTOR_GENERAL | R? | 1, 2 |
 | Heater | RESISTOR_HEATER | EK? | 1, 2 |
@@ -306,8 +311,13 @@ KiCad Library
 | Земля, общая точка, питание: |
 | Общая точка | POWER_COM | #PWR | COM |
 | Питание | POWER_V | #PWR | V |
+| Питание VA | POWER_VA | #PWR | VA |
+| Питание VB | POWER_VB | #PWR | VB |
+| Питание VC | POWER_VC | #PWR | VC |
 | Питание VCC | POWER_VCC | #PWR | VCC |
+| Питание VD | POWER_VD | #PWR | VD |
 | Питание VDD | POWER_VDD | #PWR | VDD |
+| Питание VE | POWER_VE | #PWR | VE |
 | Резистор: |
 | Общего назначения | RESISTOR_GENERAL | R? | 1, 2 |
 | Нагревательный элемент | RESISTOR_HEATER | EK? | 1, 2 |
