@@ -2,7 +2,7 @@
   (fp_text reference REF** (at 0 -7.366) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.2)))
   )
-  (fp_text value ENC-PEC12R-3-F-N (at 0 -8.636) (layer F.Fab) hide
+  (fp_text value ENC-PEC12R-3-F-N (at 0 -8.636) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.2)))
   )
   (fp_circle (center 0 0) (end 3 0) (layer F.SilkS) (width 0.2))

@@ -2,7 +2,7 @@
   (fp_text reference REF** (at 0 -3.937) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.2)))
   )
-  (fp_text value CP-AXIAL-D06-L13-d0.6 (at 0 -5.207) (layer F.Fab) hide
+  (fp_text value CP-AXIAL-D06-L13-d0.6 (at 0 -5.207) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.2)))
   )
   (fp_line (start 6.985 -3.175) (end 6.985 3.175) (layer F.SilkS) (width 0.2))

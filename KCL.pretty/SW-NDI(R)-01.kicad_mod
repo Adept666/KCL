@@ -2,7 +2,7 @@
   (fp_text reference REF** (at 0 -2.54) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.2)))
   )
-  (fp_text value "SW-NDI(R)-01" (at 0 -4.191) (layer F.Fab) hide
+  (fp_text value "SW-NDI(R)-01" (at 0 -4.191) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.2)))
   )
   (fp_line (start -0.925 0) (end -0.635 0) (layer F.SilkS) (width 0.2))

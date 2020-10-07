@@ -2,7 +2,7 @@
   (fp_text reference REF** (at 0 -17.018) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.2)))
   )
-  (fp_text value T-EI-30-2 (at 0 -18.288) (layer F.Fab) hide
+  (fp_text value T-EI-30-2 (at 0 -18.288) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.2)))
   )
   (fp_line (start 13.75 -16.25) (end 13.75 16.25) (layer F.Fab) (width 0.2))

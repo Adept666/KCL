@@ -2,7 +2,7 @@
   (fp_text reference REF** (at 0 -3.302) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.2)))
   )
-  (fp_text value VLS-BR (at 0 -4.572) (layer F.Fab) hide
+  (fp_text value VLS-BR (at 0 -4.572) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.2)))
   )
   (fp_circle (center 0 0) (end 2.6 0) (layer F.Fab) (width 0.2))

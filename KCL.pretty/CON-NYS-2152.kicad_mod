@@ -2,7 +2,7 @@
   (fp_text reference REF** (at 0 -25.781) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.2)))
   )
-  (fp_text value CON-NYS-2152 (at 0 -27.051) (layer F.Fab) hide
+  (fp_text value CON-NYS-2152 (at 0 -27.051) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.2)))
   )
   (fp_line (start -10 -20.7) (end 10 -20.7) (layer F.Fab) (width 0.2))

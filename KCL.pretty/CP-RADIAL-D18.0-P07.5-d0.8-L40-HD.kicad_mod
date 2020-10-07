@@ -2,7 +2,7 @@
   (fp_text reference REF** (at 0 -1.143) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.2)))
   )
-  (fp_text value CP-RADIAL-D18.0-P07.5-d0.8-L40-HD (at 0 -2.413) (layer F.Fab) hide
+  (fp_text value CP-RADIAL-D18.0-P07.5-d0.8-L40-HD (at 0 -2.413) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.2)))
   )
   (fp_line (start 9 42.54) (end 9 -0.45) (layer F.CrtYd) (width 0.1))

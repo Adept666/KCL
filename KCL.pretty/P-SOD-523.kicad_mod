@@ -2,7 +2,7 @@
   (fp_text reference REF** (at 0 -1.27) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.2)))
   )
-  (fp_text value P-SOD-523 (at 0 -2.54) (layer F.Fab) hide
+  (fp_text value P-SOD-523 (at 0 -2.54) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.2)))
   )
   (fp_line (start 1.651 -0.508) (end 1.651 0.508) (layer F.CrtYd) (width 0.1))

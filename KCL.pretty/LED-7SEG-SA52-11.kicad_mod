@@ -2,7 +2,7 @@
   (fp_text reference REF** (at 0 -9.652) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.2)))
   )
-  (fp_text value LED-7SEG-SA52-11 (at 0 -10.922) (layer F.Fab) hide
+  (fp_text value LED-7SEG-SA52-11 (at 0 -10.922) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.2)))
   )
   (fp_line (start -6.2 8.75) (end 6.2 8.75) (layer F.Fab) (width 0.2))

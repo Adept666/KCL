@@ -2,7 +2,7 @@
   (fp_text reference REF** (at 0 -10.541) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.2)))
   )
-  (fp_text value P-DIP-14 (at 0 -11.811) (layer F.Fab) hide
+  (fp_text value P-DIP-14 (at 0 -11.811) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.2)))
   )
   (fp_line (start -4.953 -9.779) (end -4.953 9.779) (layer F.SilkS) (width 0.2))

@@ -2,7 +2,7 @@
   (fp_text reference REF** (at 0 -2.286) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.2)))
   )
-  (fp_text value LED-ROUND-03.0-UNI-BH (at 0 -3.556) (layer F.Fab) hide
+  (fp_text value LED-ROUND-03.0-UNI-BH (at 0 -3.556) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.2)))
   )
   (fp_arc (start 0 0) (end 0.508 1.524) (angle 36.86987509) (layer F.SilkS) (width 0.2))

@@ -2,7 +2,7 @@
   (fp_text reference REF** (at 0 -16.383) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.2)))
   )
-  (fp_text value "CON-(L)7X2RA(H)" (at 0 -18.034) (layer F.Fab) hide
+  (fp_text value "CON-(L)7X2RA(H)" (at 0 -18.034) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.2)))
   )
   (fp_line (start -5.5 -8.36) (end 5.5 -8.36) (layer F.Fab) (width 0.2))

@@ -2,7 +2,7 @@
   (fp_text reference REF** (at 0 -27.178) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.2)))
   )
-  (fp_text value CON-ST-008X-04 (at 0 -28.448) (layer F.Fab) hide
+  (fp_text value CON-ST-008X-04 (at 0 -28.448) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.2)))
   )
   (fp_line (start -5.2 -26.5) (end 5.2 -26.5) (layer F.Fab) (width 0.2))

@@ -2,7 +2,7 @@
   (fp_text reference REF** (at 0 -15.621) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.2)))
   )
-  (fp_text value CON-DC-005 (at 0 -16.891) (layer F.Fab) hide
+  (fp_text value CON-DC-005 (at 0 -16.891) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.2)))
   )
   (fp_line (start 4.5 -14.2) (end 4.5 -12.573) (layer F.SilkS) (width 0.2))
