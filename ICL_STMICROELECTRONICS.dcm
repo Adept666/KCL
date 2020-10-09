@@ -4,6 +4,10 @@ $CMP L293DD
 F http://www.st.com/resource/en/datasheet/l293d.pdf
 $ENDCMP
 #
+$CMP TL064
+F http://www.st.com/resource/en/datasheet/tl064.pdf
+$ENDCMP
+#
 $CMP TL071
 F http://www.st.com/resource/en/datasheet/tl071.pdf
 $ENDCMP
