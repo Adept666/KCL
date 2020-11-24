@@ -113,9 +113,9 @@ KiCad Library
 | Jumper: |
 | Jumper | JUMPER | J? | J, J |
 | Junction: |
-| Dismountable | JUNCTION_DISMOUNTABLE | X? | 1, 1, 1, 1 |
-| Dismountable, 2 units | JUNCTION_DISMOUNTABLE_2U | X? | 1, 1, 1, 1, 2, 2, 2, 2 |
-| Dismountable, 3 units | JUNCTION_DISMOUNTABLE_3U | X? | 1, 1, 1, 1, 2, 2, 2, 2, 3, 3, 3, 3 |
+| Dismountable | JUNCTION_DISMOUNTABLE | X? | 1 |
+| Dismountable, 2 units | JUNCTION_DISMOUNTABLE_2U | X? | 1, 2 |
+| Dismountable, 3 units | JUNCTION_DISMOUNTABLE_3U | X? | 1…3 |
 | Solder | JUNCTION_SOLDER | X? | 1 |
 | Solder, 2 units | JUNCTION_SOLDER_2U | X?A…X?B | 1, 2 |
 | Solder, 3 units | JUNCTION_SOLDER_3U | X?A…X?C | 1…3 |
@@ -147,6 +147,7 @@ KiCad Library
 | Thermistor with positive temperature coefficient (horizontal) | RESISTOR_THERMISTOR_PTC_H | RK? | 1, 2 |
 | Thermistor with positive temperature coefficient (vertical) | RESISTOR_THERMISTOR_PTC_V | RK? | 1, 2 |
 | Variable | RESISTOR_VARIABLE | RP? | 1, 2, 3 |
+| Variable (case pin depicted) | RESISTOR_VARIABLE_C | RP? | 1, 2, 3, 0 |
 | Varistor (horizontal) | RESISTOR_VARISTOR_H | RU? | 1, 2 |
 | Varistor (vertical) | RESISTOR_VARISTOR_V | RU? | 1, 2 |
 | Switch: |
@@ -293,9 +294,9 @@ KiCad Library
 | Перемычка: |
 | Перемычка | JUMPER | J? | J, J |
 | Соединение: |
-| Разборное | JUNCTION_DISMOUNTABLE | X? | 1, 1, 1, 1 |
-| Разборное, 2 юнита | JUNCTION_DISMOUNTABLE_2U | X? | 1, 1, 1, 1, 2, 2, 2, 2 |
-| Разборное, 3 юнита | JUNCTION_DISMOUNTABLE_3U | X? | 1, 1, 1, 1, 2, 2, 2, 2, 3, 3, 3, 3 |
+| Разборное | JUNCTION_DISMOUNTABLE | X? | 1 |
+| Разборное, 2 юнита | JUNCTION_DISMOUNTABLE_2U | X? | 1, 2 |
+| Разборное, 3 юнита | JUNCTION_DISMOUNTABLE_3U | X? | 1…3 |
 | Неразборное | JUNCTION_SOLDER | X? | 1 |
 | Неразборное, 2 юнита | JUNCTION_SOLDER_2U | X?A…X?B | 1, 2 |
 | Неразборное, 3 юнита | JUNCTION_SOLDER_3U | X?A…X?C | 1…3 |
@@ -327,6 +328,7 @@ KiCad Library
 | Терморезистор с положительным температурным коэффициентом (изображён горизонтально) | RESISTOR_THERMISTOR_PTC_H | RK? | 1, 2 |
 | Терморезистор с положительным температурным коэффициентом (изображён вертикально) | RESISTOR_THERMISTOR_PTC_V | RK? | 1, 2 |
 | Регулируемый | RESISTOR_VARIABLE | RP? | 1, 2, 3 |
+| Регулируемый (изображён вывод корпуса) | RESISTOR_VARIABLE_C | RP? | 1, 2, 3, 0 |
 | Варистор (изображён горизонтально) | RESISTOR_VARISTOR_H | RU? | 1, 2 |
 | Варистор (изображён вертикально) | RESISTOR_VARISTOR_V | RU? | 1, 2 |
 | Переключатель: |
