@@ -4,4 +4,8 @@ $CMP LM301A
 F http://www.onsemi.com/pub/Collateral/LM301A-D.PDF
 $ENDCMP
 #
+$CMP LM833
+F http://www.onsemi.com/pdf/datasheet/lm833-d.pdf
+$ENDCMP
+#
 #End Doc Library
