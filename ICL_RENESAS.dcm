@@ -1,0 +1,11 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ICL7660A
+F http://www.renesas.com/eu/en/document/dst/icl7660s-icl7660a-datasheet?language=en&r=501846
+$ENDCMP
+#
+$CMP ICL7660S
+F http://www.renesas.com/eu/en/document/dst/icl7660s-icl7660a-datasheet?language=en&r=501846
+$ENDCMP
+#
+#End Doc Library
