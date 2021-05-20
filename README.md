@@ -114,8 +114,10 @@ KiCad Library
 | Jumper | JUMPER | J? | J, J |
 | Junction: |
 | Dismountable | JUNCTION_DISMOUNTABLE | X? | 1 |
-| Dismountable, 2 units | JUNCTION_DISMOUNTABLE_2U | X? | 1, 2 |
-| Dismountable, 3 units | JUNCTION_DISMOUNTABLE_3U | X? | 1…3 |
+| Dismountable, 2 units | JUNCTION_DISMOUNTABLE_2U | X?A…X?B | 1, 2 |
+| Dismountable, 3 units | JUNCTION_DISMOUNTABLE_3U | X?A…X?C | 1…3 |
+| Dismountable, 5 units | JUNCTION_DISMOUNTABLE_5U | X?A…X?E | 1…5 |
+| Dismountable, 6 units | JUNCTION_DISMOUNTABLE_6U | X?A…X?F | 1…6 |
 | Solder | JUNCTION_SOLDER | X? | 1 |
 | Solder, 2 units | JUNCTION_SOLDER_2U | X?A…X?B | 1, 2 |
 | Solder, 3 units | JUNCTION_SOLDER_3U | X?A…X?C | 1…3 |
@@ -147,7 +149,11 @@ KiCad Library
 | Thermistor with positive temperature coefficient (horizontal) | RESISTOR_THERMISTOR_PTC_H | RK? | 1, 2 |
 | Thermistor with positive temperature coefficient (vertical) | RESISTOR_THERMISTOR_PTC_V | RK? | 1, 2 |
 | Variable | RESISTOR_VARIABLE | RP? | 1, 2, 3 |
+| Variable, 2 units | RESISTOR_VARIABLE_2U | RP?A…RP?B | 11, 12, 23, 21, 22, 23 |
+| Variable, 3 units | RESISTOR_VARIABLE_3U | RP?A…RP?C | 11, 12, 23, 21, 22, 23, 31, 32, 33 |
+| Variable, 4 units | RESISTOR_VARIABLE_4U | RP?A…RP?D | 11, 12, 23, 21, 22, 23, 31, 32, 33, 41, 42, 43 |
 | Variable (case pin depicted) | RESISTOR_VARIABLE_C | RP? | 1, 2, 3, 0 |
+| Variable dual | RESISTOR_VARIABLE_DUAL | RP?A…RP?B | 1, 2, 3, 4, 5, 6 |
 | Varistor (horizontal) | RESISTOR_VARISTOR_H | RU? | 1, 2 |
 | Varistor (vertical) | RESISTOR_VARISTOR_V | RU? | 1, 2 |
 | Switch: |
@@ -181,7 +187,7 @@ KiCad Library
 | Heat sink for 2 components | VIRTUAL_HEAT-SINK_2 | VHS?A…VHS?B | 0, 0, 0, 0, 0, 0, 0, 0 |
 | Heat sink for 3 components | VIRTUAL_HEAT-SINK_3 | VHS?A…VHS?C | 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 |
 | Led spacer | VIRTUAL_LED-SPACER | VLS? |  |
-| Mounting hole | VIRTUAL_MOUNTING-HOLE | VMH? | 0, 0, 0, 0 |
+| Mounting hole | VIRTUAL_MOUNTING-HOLE | VMH? | 0 |
 
 ## Перечень символов
 
@@ -295,8 +301,10 @@ KiCad Library
 | Перемычка | JUMPER | J? | J, J |
 | Соединение: |
 | Разборное | JUNCTION_DISMOUNTABLE | X? | 1 |
-| Разборное, 2 юнита | JUNCTION_DISMOUNTABLE_2U | X? | 1, 2 |
-| Разборное, 3 юнита | JUNCTION_DISMOUNTABLE_3U | X? | 1…3 |
+| Разборное, 2 юнита | JUNCTION_DISMOUNTABLE_2U | X?A…X?B | 1, 2 |
+| Разборное, 3 юнита | JUNCTION_DISMOUNTABLE_3U | X?A…X?C | 1…3 |
+| Разборное, 5 юнитов | JUNCTION_DISMOUNTABLE_5U | X?A…X?E | 1…5 |
+| Разборное, 6 юнитов | JUNCTION_DISMOUNTABLE_6U | X?A…X?F | 1…6 |
 | Неразборное | JUNCTION_SOLDER | X? | 1 |
 | Неразборное, 2 юнита | JUNCTION_SOLDER_2U | X?A…X?B | 1, 2 |
 | Неразборное, 3 юнита | JUNCTION_SOLDER_3U | X?A…X?C | 1…3 |
@@ -328,7 +336,11 @@ KiCad Library
 | Терморезистор с положительным температурным коэффициентом (изображён горизонтально) | RESISTOR_THERMISTOR_PTC_H | RK? | 1, 2 |
 | Терморезистор с положительным температурным коэффициентом (изображён вертикально) | RESISTOR_THERMISTOR_PTC_V | RK? | 1, 2 |
 | Регулируемый | RESISTOR_VARIABLE | RP? | 1, 2, 3 |
+| Регулируемый, 2 юнита | RESISTOR_VARIABLE_2U | RP?A…RP?B | 11, 12, 23, 21, 22, 23 |
+| Регулируемый, 3 юнита | RESISTOR_VARIABLE_3U | RP?A…RP?C | 11, 12, 23, 21, 22, 23, 31, 32, 33 |
+| Регулируемый, 4 юнита | RESISTOR_VARIABLE_4U | RP?A…RP?D | 11, 12, 23, 21, 22, 23, 31, 32, 33, 41, 42, 43 |
 | Регулируемый (изображён вывод корпуса) | RESISTOR_VARIABLE_C | RP? | 1, 2, 3, 0 |
+| Регулируемый сдвоенный | RESISTOR_VARIABLE_DUAL | RP?A…RP?B | 1, 2, 3, 4, 5, 6 |
 | Варистор (изображён горизонтально) | RESISTOR_VARISTOR_H | RU? | 1, 2 |
 | Варистор (изображён вертикально) | RESISTOR_VARISTOR_V | RU? | 1, 2 |
 | Переключатель: |
@@ -362,7 +374,7 @@ KiCad Library
 | Теплоотвод для 2 компонентов | VIRTUAL_HEAT-SINK_2 | VHS?A…VHS?B | 0, 0, 0, 0, 0, 0, 0, 0 |
 | Теплоотвод для 3 компонентов | VIRTUAL_HEAT-SINK_3 | VHS?A…VHS?C | 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 |
 | Держатель для светодиода | VIRTUAL_LED-SPACER | VLS? |  |
-| Монтажное отверстие | VIRTUAL_MOUNTING-HOLE | VMH? | 0, 0, 0, 0 |
+| Монтажное отверстие | VIRTUAL_MOUNTING-HOLE | VMH? | 0 |
 
 ## Author
 
