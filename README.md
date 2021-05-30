@@ -130,6 +130,10 @@ KiCad Library
 | Enhancement-mode, N-channel, general-purpose, dual | MOSFET_ENH_N_GENERAL_2U | VT?A…VT?B | G1, D1, S1, G2, D2, S2 |
 | Enhancement-mode, P-channel, general-purpose | MOSFET_ENH_P_GENERAL | VT? | G, D, S |
 | Enhancement-mode, P-channel, general-purpose, dual | MOSFET_ENH_P_GENERAL_2U | VT?A…VT?B | G1, D1, S1, G2, D2, S2 |
+| Operational amplifier: |
+| General-purpose | OPAMP | D?A…D?B | 2…4, 6, 7 |
+| General-purpose, dual | OPAMP_2U | D?A…D?C | 1…8 |
+| General-purpose, quadruple | OPAMP_4U | D?A…D?E | 1…14 |
 | Power: |
 | Common point | POWER_COM | #PWR | COM |
 | Power | POWER_V | #PWR | V |
@@ -317,6 +321,10 @@ KiCad Library
 | С индуцированным каналом N-типа, общего назначения, сдвоенный | MOSFET_ENH_N_GENERAL_2U | VT?A…VT?B | G1, D1, S1, G2, D2, S2 |
 | С индуцированным каналом P-типа, общего назначения | MOSFET_ENH_P_GENERAL | VT? | G, D, S |
 | С индуцированным каналом P-типа, общего назначения, сдвоенный | MOSFET_ENH_P_GENERAL_2U | VT?A…VT?B | G1, D1, S1, G2, D2, S2 |
+| Операционный усилитель: |
+| Общего назначения | OPAMP | D?A…D?B | 2…4, 6, 7 |
+| Общего назначения, сдвоенный | OPAMP_2U | D?A…D?C | 1…8 |
+| Общего назначения, счетверённый | OPAMP_4U | D?A…D?E | 1…14 |
 | Земля, общая точка, питание: |
 | Общая точка | POWER_COM | #PWR | COM |
 | Питание | POWER_V | #PWR | V |
