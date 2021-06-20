@@ -12,6 +12,10 @@ $CMP LM124
 F http://www.ti.com/lit/ds/symlink/lm124.pdf
 $ENDCMP
 #
+$CMP LM13700
+F http://www.ti.com/lit/ds/symlink/lm13700.pdf
+$ENDCMP
+#
 $CMP LM224
 F http://www.ti.com/lit/ds/symlink/lm224.pdf
 $ENDCMP
