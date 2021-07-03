@@ -153,9 +153,9 @@ KiCad Library
 | Thermistor with positive temperature coefficient (horizontal) | RESISTOR_THERMISTOR_PTC_H | RK? | 1, 2 |
 | Thermistor with positive temperature coefficient (vertical) | RESISTOR_THERMISTOR_PTC_V | RK? | 1, 2 |
 | Variable | RESISTOR_VARIABLE | RP? | 1, 2, 3 |
-| Variable, 2 units | RESISTOR_VARIABLE_2U | RP?A…RP?B | 11, 12, 23, 21, 22, 23 |
-| Variable, 3 units | RESISTOR_VARIABLE_3U | RP?A…RP?C | 11, 12, 23, 21, 22, 23, 31, 32, 33 |
-| Variable, 4 units | RESISTOR_VARIABLE_4U | RP?A…RP?D | 11, 12, 23, 21, 22, 23, 31, 32, 33, 41, 42, 43 |
+| Variable, 2 units | RESISTOR_VARIABLE_2U | RP?A…RP?B | 11, 12, 13, 21, 22, 23 |
+| Variable, 3 units | RESISTOR_VARIABLE_3U | RP?A…RP?C | 11, 12, 13, 21, 22, 23, 31, 32, 33 |
+| Variable, 4 units | RESISTOR_VARIABLE_4U | RP?A…RP?D | 11, 12, 13, 21, 22, 23, 31, 32, 33, 41, 42, 43 |
 | Variable, 4 units (dual, single, single) | RESISTOR_VARIABLE_4U_DUAL-SINGLE-SINGLE | RP?A…RP?D | 11, 12, 13, 14, 15, 16, 21, 22, 23, 31, 32, 33, 41, 42, 43 |
 | Variable (case pin depicted) | RESISTOR_VARIABLE_C | RP? | 1, 2, 3, 0 |
 | Variable dual | RESISTOR_VARIABLE_DUAL | RP?A…RP?B | 1, 2, 3, 4, 5, 6 |
@@ -346,9 +346,9 @@ KiCad Library
 | Терморезистор с положительным температурным коэффициентом (изображён горизонтально) | RESISTOR_THERMISTOR_PTC_H | RK? | 1, 2 |
 | Терморезистор с положительным температурным коэффициентом (изображён вертикально) | RESISTOR_THERMISTOR_PTC_V | RK? | 1, 2 |
 | Регулируемый | RESISTOR_VARIABLE | RP? | 1, 2, 3 |
-| Регулируемый, 2 юнита | RESISTOR_VARIABLE_2U | RP?A…RP?B | 11, 12, 23, 21, 22, 23 |
-| Регулируемый, 3 юнита | RESISTOR_VARIABLE_3U | RP?A…RP?C | 11, 12, 23, 21, 22, 23, 31, 32, 33 |
-| Регулируемый, 4 юнита | RESISTOR_VARIABLE_4U | RP?A…RP?D | 11, 12, 23, 21, 22, 23, 31, 32, 33, 41, 42, 43 |
+| Регулируемый, 2 юнита | RESISTOR_VARIABLE_2U | RP?A…RP?B | 11, 12, 13, 21, 22, 23 |
+| Регулируемый, 3 юнита | RESISTOR_VARIABLE_3U | RP?A…RP?C | 11, 12, 13, 21, 22, 23, 31, 32, 33 |
+| Регулируемый, 4 юнита | RESISTOR_VARIABLE_4U | RP?A…RP?D | 11, 12, 13, 21, 22, 23, 31, 32, 33, 41, 42, 43 |
 | Регулируемый, 4 юнита (сдвоенный, одиночный, одиночный) | RESISTOR_VARIABLE_4U_DUAL-SINGLE-SINGLE | RP?A…RP?D | 11, 12, 13, 14, 15, 16, 21, 22, 23, 31, 32, 33, 41, 42, 43 |
 | Регулируемый (изображён вывод корпуса) | RESISTOR_VARIABLE_C | RP? | 1, 2, 3, 0 |
 | Регулируемый сдвоенный | RESISTOR_VARIABLE_DUAL | RP?A…RP?B | 1, 2, 3, 4, 5, 6 |
