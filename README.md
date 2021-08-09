@@ -182,6 +182,7 @@ KiCad Library
 | 01 pole, 02 throws, ON-OFF-ON | SWITCH_GENERAL_01P_02T_ON-OFF-ON | SA? | COM, NO_1, NO_2 |
 | 02 poles, 02 throws | SWITCH_GENERAL_02P_02T | SA? | COM1, NO1, NC1, COM2, NO2, NC2 |
 | 04 poles, 02 throws | SWITCH_GENERAL_04P_02T | SA? | COM1, NO1, NC1, COM2, NO2, NC2, COM3, NO3, NC3, COM4, NO4, NC4 |
+| RBS-1-2P6W | SWITCH_SPECIAL_RBS-1-2P6W | SA? | COM1, 1-1…1-6, COM2, 2-1…2-6 |
 | SK-23D29-G | SWITCH_SPECIAL_SK-23D29-G | SA? | 1…8 |
 | Transformer: |
 | 2 windings, ferromagnetic or ferrimagnetic core, turns depicted: 4, 3 | TRANSFORMER_2_FMC_4_3 | T?A…T?B | 1+, 1-, 2+, 2- |
@@ -375,6 +376,7 @@ KiCad Library
 | 01 полюс, 02 направления, ON-OFF-ON | SWITCH_GENERAL_01P_02T_ON-OFF-ON | SA? | COM, NO_1, NO_2 |
 | 02 полюса, 02 направления | SWITCH_GENERAL_02P_02T | SA? | COM1, NO1, NC1, COM2, NO2, NC2 |
 | 04 полюса, 02 направления | SWITCH_GENERAL_04P_02T | SA? | COM1, NO1, NC1, COM2, NO2, NC2, COM3, NO3, NC3, COM4, NO4, NC4 |
+| RBS-1-2P6W | SWITCH_SPECIAL_RBS-1-2P6W | SA? | COM1, 1-1…1-6, COM2, 2-1…2-6 |
 | SK-23D29-G | SWITCH_SPECIAL_SK-23D29-G | SA? | 1…8 |
 | Трансформатор: |
 | 2 обмотки, ферромагнитный или ферримагнитный сердечник, изображено витков: 4, 3 | TRANSFORMER_2_FMC_4_3 | T?A…T?B | 1+, 1-, 2+, 2- |
