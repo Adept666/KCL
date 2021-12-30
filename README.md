@@ -112,6 +112,7 @@ KiCad Library
 | P-channel, general-purpose, dual | JFET_P_GENERAL_2U | VT?A…VT?B | G1, D1, S1, G2, D2, S2 |
 | Jumper: |
 | Jumper | JUMPER | J? | J, J |
+| Solder bridge, 2 pads | JUMPER_SB_2 | J? | 1, 2 |
 | Junction: |
 | Dismountable | JUNCTION_DISMOUNTABLE | X? | 1 |
 | Dismountable, 2 units | JUNCTION_DISMOUNTABLE_2U | X?A…X?B | 1, 2 |
@@ -306,6 +307,7 @@ KiCad Library
 | С каналом P-типа, общего назначения, сдвоенный | JFET_P_GENERAL_2U | VT?A…VT?B | G1, D1, S1, G2, D2, S2 |
 | Перемычка: |
 | Перемычка | JUMPER | J? | J, J |
+| Капля припоя, 2 контактных площадки | JUMPER_SB_2 | J? | 1, 2 |
 | Соединение: |
 | Разборное | JUNCTION_DISMOUNTABLE | X? | 1 |
 | Разборное, 2 юнита | JUNCTION_DISMOUNTABLE_2U | X?A…X?B | 1, 2 |
