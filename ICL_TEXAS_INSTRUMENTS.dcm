@@ -8,6 +8,10 @@ $CMP CD4010
 F http://www.ti.com/lit/ds/symlink/cd4010b.pdf
 $ENDCMP
 #
+$CMP CD4013
+F http://www.ti.com/lit/ds/symlink/cd4010b.pdf
+$ENDCMP
+#
 $CMP LM124
 F http://www.ti.com/lit/ds/symlink/lm124.pdf
 $ENDCMP
