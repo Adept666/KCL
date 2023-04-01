@@ -146,7 +146,7 @@ KiCad Library
 | Power VDD | POWER_VDD | #PWR | VDD |
 | Power VE | POWER_VE | #PWR | VE |
 | Resistor: |
-| General-purpose | RESISTOR_GENERAL | R? | 1, 2 |
+| General-purpose, 2 units (real, virtual) | RESISTOR_GENERAL_2U_REAL-VIRTUAL | R?A…R?B | 1, 2 |
 | Heater | RESISTOR_HEATER | EK? | 1, 2 |
 | Preset | RESISTOR_PRESET | RP? | 1, 2, 3 |
 | Thermistor with negative temperature coefficient (horizontal) | RESISTOR_THERMISTOR_NTC_H | RK? | 1, 2 |
@@ -156,6 +156,7 @@ KiCad Library
 | Variable | RESISTOR_VARIABLE | RP? | 1, 2, 3 |
 | Variable, 2 units | RESISTOR_VARIABLE_2U | RP?A…RP?B | 11, 12, 13, 21, 22, 23 |
 | Variable, 3 units | RESISTOR_VARIABLE_3U | RP?A…RP?C | 11, 12, 13, 21, 22, 23, 31, 32, 33 |
+| Variable, 3 units (real, real, virtual) | RESISTOR_VARIABLE_3U_REAL-REAL-VIRTUAL | RP?A…RP?C | 11, 12, 13, 21, 22, 23 |
 | Variable, 4 units | RESISTOR_VARIABLE_4U | RP?A…RP?D | 11, 12, 13, 21, 22, 23, 31, 32, 33, 41, 42, 43 |
 | Variable, 4 units (dual, single, single) | RESISTOR_VARIABLE_4U_DUAL-SINGLE-SINGLE | RP?A…RP?D | 11, 12, 13, 14, 15, 16, 21, 22, 23, 31, 32, 33, 41, 42, 43 |
 | Variable (case pin depicted) | RESISTOR_VARIABLE_C | RP? | 1, 2, 3, 0 |
@@ -345,6 +346,7 @@ KiCad Library
 | Питание VE | POWER_VE | #PWR | VE |
 | Резистор: |
 | Общего назначения | RESISTOR_GENERAL | R? | 1, 2 |
+| Общего назначения, 2 юнита (реальный, виртуальный) | RESISTOR_GENERAL_2U_REAL-VIRTUAL | R?A…R?B | 1, 2 |
 | Нагревательный элемент | RESISTOR_HEATER | EK? | 1, 2 |
 | Подстроечный | RESISTOR_PRESET | RP? | 1, 2, 3 |
 | Терморезистор с отрицательным температурным коэффициентом (изображён горизонтально) | RESISTOR_THERMISTOR_NTC_H | RK? | 1, 2 |
@@ -354,6 +356,7 @@ KiCad Library
 | Регулируемый | RESISTOR_VARIABLE | RP? | 1, 2, 3 |
 | Регулируемый, 2 юнита | RESISTOR_VARIABLE_2U | RP?A…RP?B | 11, 12, 13, 21, 22, 23 |
 | Регулируемый, 3 юнита | RESISTOR_VARIABLE_3U | RP?A…RP?C | 11, 12, 13, 21, 22, 23, 31, 32, 33 |
+| Регулируемый, 3 юнита (реальный, реальный, виртуальный) | RESISTOR_VARIABLE_3U_REAL-REAL-VIRTUAL | RP?A…RP?C | 11, 12, 13, 21, 22, 23 |
 | Регулируемый, 4 юнита | RESISTOR_VARIABLE_4U | RP?A…RP?D | 11, 12, 13, 21, 22, 23, 31, 32, 33, 41, 42, 43 |
 | Регулируемый, 4 юнита (сдвоенный, одиночный, одиночный) | RESISTOR_VARIABLE_4U_DUAL-SINGLE-SINGLE | RP?A…RP?D | 11, 12, 13, 14, 15, 16, 21, 22, 23, 31, 32, 33, 41, 42, 43 |
 | Регулируемый (изображён вывод корпуса) | RESISTOR_VARIABLE_C | RP? | 1, 2, 3, 0 |
