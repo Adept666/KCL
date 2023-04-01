@@ -146,6 +146,7 @@ KiCad Library
 | Power VDD | POWER_VDD | #PWR | VDD |
 | Power VE | POWER_VE | #PWR | VE |
 | Resistor: |
+| General-purpose | RESISTOR_GENERAL | R? | 1, 2 |
 | General-purpose, 2 units (real, virtual) | RESISTOR_GENERAL_2U_REAL-VIRTUAL | R?A…R?B | 1, 2 |
 | Heater | RESISTOR_HEATER | EK? | 1, 2 |
 | Preset | RESISTOR_PRESET | RP? | 1, 2, 3 |
