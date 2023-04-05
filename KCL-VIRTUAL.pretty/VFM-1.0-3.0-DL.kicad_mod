@@ -1,0 +1,14 @@
+(module VFM-1.0-3.0-DL (layer F.Cu) (tedit 642DBA8D)
+  (fp_text reference REF** (at 0 -2.159) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.2)))
+  )
+  (fp_text value VFM-1.0-3.0-DL (at 0 -3.429) (layer F.Fab) hide
+    (effects (font (size 1 1) (thickness 0.2)))
+  )
+  (fp_circle (center 0 0) (end 1.5 0) (layer F.CrtYd) (width 0.1))
+  (fp_circle (center 0 0) (end 1.5 0) (layer B.CrtYd) (width 0.1))
+  (pad "" smd circle (at 0 0) (size 1 1) (layers F.Cu F.Mask)
+    (solder_mask_margin 1) (clearance 1.1))
+  (pad "" smd circle (at 0 0) (size 1 1) (layers B.Cu B.Mask)
+    (solder_mask_margin 1) (clearance 1.1))
+)
