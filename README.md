@@ -201,6 +201,7 @@ KiCad Library
 | Heat sink for 3 components | VIRTUAL_HEAT-SINK_3 | VHS?A…VHS?C | 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 |
 | Led spacer | VIRTUAL_LED-SPACER | VLS? |  |
 | Mounting hole | VIRTUAL_MOUNTING-HOLE | VMH? | 0 |
+| Trace cut | VIRTUAL_TRACE-CUT | VTC? | 1 |
 
 ## Перечень символов
 
@@ -401,6 +402,7 @@ KiCad Library
 | Теплоотвод для 3 компонентов | VIRTUAL_HEAT-SINK_3 | VHS?A…VHS?C | 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 |
 | Держатель для светодиода | VIRTUAL_LED-SPACER | VLS? |  |
 | Монтажное отверстие | VIRTUAL_MOUNTING-HOLE | VMH? | 0 |
+| Разрез дорожки | VIRTUAL_TRACE-CUT | VTC? | 1 |
 
 ## Author
 
