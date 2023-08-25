@@ -1,8 +1,8 @@
-(module VTC (layer F.Cu) (tedit 64CD42EA)
-  (fp_text reference REF** (at 0 -0.762) (layer F.SilkS) hide
+(module VTC (layer F.Cu) (tedit 64E83FA5)
+  (fp_text reference REF** (at 0 -0.762) (layer F.Paste)
     (effects (font (size 1 1) (thickness 0.2)))
   )
-  (fp_text value VTC (at 0 -2.032) (layer F.Fab) hide
+  (fp_text value VTC (at 0 -2.032) (layer F.Paste) hide
     (effects (font (size 1 1) (thickness 0.2)))
   )
   (fp_line (start -0.635 0) (end 0.635 0) (layer F.Paste) (width 0.4))
