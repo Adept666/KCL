@@ -16,6 +16,7 @@ KiCad Library
 | Ferroelectric (vertical) | CAPACITOR_FERROELECTRIC_V | C? | 1, 2 |
 | Non-polarized | CAPACITOR_NON-POLARIZED | C? | 1, 2 |
 | Polarized | CAPACITOR_POLARIZED | C? | +, - |
+| Polarized, 2 units (real, virtual) | CAPACITOR_POLARIZED_2U_REAL-VIRTUAL | C?A…C?B | +, - |
 | Preset | CAPACITOR_PRESET | C? | 1, 2 |
 | Variable | CAPACITOR_VARIABLE | C? | 1, 2 |
 | Connector: |
@@ -216,6 +217,7 @@ KiCad Library
 | Вариконд (изображён вертикально) | CAPACITOR_FERROELECTRIC_V | C? | 1, 2 |
 | Неполяризованный | CAPACITOR_NON-POLARIZED | C? | 1, 2 |
 | Поляризованный | CAPACITOR_POLARIZED | C? | +, - |
+| Поляризованный, 2 юнита (реальный, виртуальный) | CAPACITOR_POLARIZED_2U_REAL-VIRTUAL | C?A…C?B | +, - |
 | Подстроечный | CAPACITOR_PRESET | C? | 1, 2 |
 | Регулируемый | CAPACITOR_VARIABLE | C? | 1, 2 |
 | Разъём: |
