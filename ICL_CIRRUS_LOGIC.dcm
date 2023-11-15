@@ -1,0 +1,23 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CS4344
+F http://statics.cirrus.com/pubs/proDatasheet/CS4344-45-48_F2.pdf
+$ENDCMP
+#
+$CMP CS4345
+F http://statics.cirrus.com/pubs/proDatasheet/CS4344-45-48_F2.pdf
+$ENDCMP
+#
+$CMP CS4348
+F http://statics.cirrus.com/pubs/proDatasheet/CS4344-45-48_F2.pdf
+$ENDCMP
+#
+$CMP CS5343
+F http://statics.cirrus.com/pubs/proDatasheet/CS5343-44_F5.pdf
+$ENDCMP
+#
+$CMP CS5344
+F http://statics.cirrus.com/pubs/proDatasheet/CS5343-44_F5.pdf
+$ENDCMP
+#
+#End Doc Library
