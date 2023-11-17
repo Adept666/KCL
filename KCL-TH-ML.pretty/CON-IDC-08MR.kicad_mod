@@ -1,8 +1,8 @@
-(module CON-IDC-08MR (layer F.Cu) (tedit 65577365)
+(module CON-IDC-08MR (layer F.Cu) (tedit 65577AFE)
   (fp_text reference REF** (at 0 -13.081) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.2)))
   )
-  (fp_text value CON-IDC-08MR (at 0 -14.351) (layer F.Fab) hide
+  (fp_text value CON-IDC-08MR (at 0 -14.351) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.2)))
   )
   (fp_line (start 8.89 -12.34) (end 8.89 -3.07) (layer F.CrtYd) (width 0.1))

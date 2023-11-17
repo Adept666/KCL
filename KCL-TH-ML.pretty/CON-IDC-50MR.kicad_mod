@@ -1,8 +1,8 @@
-(module CON-IDC-50MR (layer F.Cu) (tedit 6557739C)
+(module CON-IDC-50MR (layer F.Cu) (tedit 65577B35)
   (fp_text reference REF** (at 0 -13.081) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.2)))
   )
-  (fp_text value CON-IDC-50MR (at 0 -14.351) (layer F.Fab) hide
+  (fp_text value CON-IDC-50MR (at 0 -14.351) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.2)))
   )
   (fp_line (start 35.56 -12.34) (end 35.56 -3.07) (layer F.CrtYd) (width 0.1))
